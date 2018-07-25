@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii"/>
+<meta http-equiv='imagetoolbar' content='no' />
+  <style type="text/css">
+/*<![CDATA[*/
+  v\:* {behavior:url(#default#VML);}
+    #myMap { 
+      position: absolute;
+      top:0;
+      right:0;
+      left:340px;
+    }
+    label {
+      cursor: pointer;
+    }
+/*]]>*/
+  </style>
+
+<script type="text/javascript" src="http://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=6.2">
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var map = null;
+var tileLayer;
+function GetMap() {
+  map = new VEMap('myMap');
+  map.LoadMap();
+}  
+
+function AddLayer(product) {
+    var bounds = [ new VELatLongRectangle(new VELatLong(85,-180), new VELatLong(-85,180))];
+  var tileSource = "http://maps.customweather.com/cw_tiles/wn3wotsVEDOYnbRWzRqcKzqw2ahEJXHFlKC0Zr-VUBGm02E1HaBo_keF4V15r4Nn/"+product+"/%4.png"
+    var tileSourceSpec = new VETileSourceSpecification(product, tileSource);
+    tileSourceSpec.NumServers = 1;
+    tileSourceSpec.Bounds     = bounds;
+    tileSourceSpec.MinZoom    = 1;
+    tileSourceSpec.MaxZoom    = 9;
+    tileSourceSpec.Opacity    = 0.65;
+    tileSourceSpec.ZIndex     = 100;
+    map.AddTileLayer(tileSourceSpec, true);
+}
+
+function RemoveLayer(product) {
+    map.DeleteTileLayer(product);
+}
+
+function toggleLayer(checkbox, product) {
+  if (checkbox.checked) {
+    AddLayer(product);
+  } else {
+    RemoveLayer(product);
+  }
+}
+//]]>
+  </script>
+  
+  	<script type="text/javascript">
+
+	  function drawList () {
+	  var arrayL = new Array();
+	  arrayL[0] = new Array();
+	  arrayL[0]['lang'] = "Temperature (Maximum)";
+	  arrayL[0]['layer'] = "maxtemp_day_e_0";
+	  arrayL[0]['scaleType'] = "";
+	  arrayL[1] = new Array();
+	  arrayL[1]['lang'] = "Rainfall (Daily Totals)";
+	  arrayL[1]['layer'] = "rainfall_day_e_0";
+	  arrayL[1]['scaleType'] = "";	
+     var html = "";
+	  for (var z=0;z<arrayL.length;z++) {
+					    var lang = arrayL[z]['lang'];
+					    html += "<label><input type='checkbox' onclick='"+ ("toggleLayer(this,\"" + (arrayL[z]['layer']) + "\"); if(this.checked){loadLegend(\"" + (arrayL[z]['layer']) + "\",\"\",\"\");") +"} else { hideLegend(); }' />"+(lang)+"</label><br>";
+					    }
+					    return html;
+					    }
+					  
+	</script>
+
+</head>
+  
+</head>
+
+<body onload="GetMap();">
+
+  <div style="z-index: 200; position: fixed; top: 0px; right: 0px">
+    <div style='position:absolute; right: 0px'>
+      <script type="text/javascript" src="layer_info/js/cwLegend.js"></script>
+    </div>
+  </div>
+
+<div id='myMap' style="width:auto; height:100%; min-width:340px; min-height:200px;"></div>
+
+<!-- LAYERS -->
+
+	<!-- Current condition examples -->
+	<label><input type="checkbox" onclick="toggleLayer(this,'synoptic_temp'); if(this.checked){loadGradientLegend('mean', 'Current Temperatures', 'synoptic_temp')} else { hideLegend(); }" />Current Temperatures</label><br>
+    <label><input type="checkbox" onclick="toggleLayer(this,'synoptic_humidity'); if(this.checked){loadLegend('2m_relative_humidity_day_e_0', 'Current Humidity','synoptic_humidity')} else { hideLegend(); }" />Current Humidity</label><br>
+  	
+  	<!-- GFS Model layers -->
+  	<script>
+    var list = drawList();
+    document.write(list);
+  </script>
+	
+
+</body>
+</html>
+
+
+
+
+
+
+

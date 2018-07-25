@@ -1,0 +1,1 @@
+curl http://maps-beta.customweather.com/xml?product=cwsmodel&callback=cwslayers&client=alex&client_password=trust_me > cwslayers.js

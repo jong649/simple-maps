@@ -1,0 +1,39 @@
+<html>
+<script type="text/javascript" src="http://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=6.2"></script>
+<script src="lib/QueryData.js" type="text/javascript"></script>
+<script src="lib/jquery.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function GetMap() {
+var map = new VEMap("cwMap");
+         var LA = new VELatLong(35, -95, 0, VELatLong.RelativeToGround);
+	map.LoadMap(LA, 4, VEMapStyle.Hybrid, false, VEMapMode.Mode2D, true, 1); // Road, Hybrid, Aerial, Shaeded
+	//map.LoadMap();
+
+	//map.AddTileLayer(new VETileSourceSpecification("cw_layer", "http://maps.customweather.com/cw_tiles/KW_GsansR5Ky-IiJ9ZBdji70kJ3t1cCtgxIfczR7DktDatj5rKUxuqdzQ1RGIxko/nws_radar_sfa_10min/%4.png"), true);
+	//map.AddTileLayer(new VETileSourceSpecification("cw_layer", "http://maps.customweather.com/cw_tiles/KW_GsansR5Ky-IiJ9ZBdji70kJ3t1cCtgxIfczR7DktDatj5rKUxuqdzQ1RGIxko/current_conditions/%4.png"), true);
+	//map.AddTileLayer(new VETileSourceSpecification("cw_layer", "http://maps-beta.customweather.com/cw_tiles/KW_GsansR5Ky-IiJ9ZBdji70kJ3t1cCtgxIfczR7DktDatj5rKUxuqdzQ1RGIxko/conditions/%4.png"), true);
+
+var queryString = new QueryData();
+
+var metric = false;
+var svg = false;
+
+if('svg' in queryString){
+        svg = queryString.svg=='true';
+}
+if('metric' in queryString){
+        metric = queryString.metric=='true'; // force hrrr
+}
+if(metric){
+	var url = "http://maps-beta.customweather.com/cw_tiles/KW_GsansR5Ky-IiJ9ZBdji70kJ3t1cCtgxIfczR7DktDatj5rKUxuqdzQ1RGIxko/cc_test_metric/%4.png?palette.name=meantemp_day_metric.cpt&svg=" + svg;
+	map.AddTileLayer(new VETileSourceSpecification("bradburn", url), true);
+}else{
+	var url = "http://maps-beta.customweather.com/cw_tiles/KW_GsansR5Ky-IiJ9ZBdji70kJ3t1cCtgxIfczR7DktDatj5rKUxuqdzQ1RGIxko/cc_test/%4.png?palette.name=meantemp_day_metric.cpt&svg=" + svg;
+	map.AddTileLayer(new VETileSourceSpecification("bradburn", url), true);
+}
+}  
+//]]>
+</script>
+<body onload="GetMap();"><div id="cwMap" style="width:auto; height:100%;"></div></body>
+</html>

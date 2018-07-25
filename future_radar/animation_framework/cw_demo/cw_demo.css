@@ -1,0 +1,73 @@
+v\:* {behavior:url(#default#VML);}
+#myMap { 
+    position: absolute;
+    top:0;
+    right:0;
+    left:340px;
+    z-index:0
+}
+#phatluv{
+        position: fixed;
+	z-index:10;
+        top: 20px;
+	right: 20px;
+}
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+/**
+#phatluv{
+        position: absolute;
+	z-index:10;
+        top: 100px;
+	left: 100px;
+}
+*/
+#legendButtons {
+    top: 0;
+    left: 0;
+    min-width:45px;
+}
+#legend { 
+    position: absolute;
+    top: 30px;
+    left:0;
+    min-height: 500px;
+}
+label {
+    cursor: pointer;
+}
+li img {
+    vertical-align: middle;
+}
+ul {
+    list-style: none;
+    border: 1px dashed #888;
+}
+img.legend {
+    width: 267px;
+    height: 32px;
+    border: 1px solid #888;
+}
+.button {
+    text-decoaration: underline;
+    color: blue;
+    cursor:pointer;
+}
+
+#palette {
+  background-color: #FFFFFF;
+  position:absolute
+  right: 0px
+  width: 800px ;
+  height: 75px ;
+  font: 300 100.1% "Helvetica Neue", Helvetica, "Arial Unicode MS", Arial, sans-serif;
+  font-weight: bold;
+
+}

@@ -1,0 +1,288 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Weather for your world</title>
+  
+  <meta http-equiv='imagetoolbar' content='no' />
+  <style type="text/css">
+/*<![CDATA[*/
+  v\:* {behavior:url(#default#VML);}
+    #myMap { 
+      position: absolute;
+      top:0;
+      right:0;
+      left:340px;
+    }
+    #legendButtons {
+      top: 0;
+      left: 0;
+      min-width:45px;
+    }
+    #legend { 
+      position: absolute;
+      top: 30px;
+      left:0;
+      min-height: 500px;
+    }
+    label {
+      cursor: pointer;
+    }
+    li img {
+      vertical-align: middle;
+    }
+    ul {
+      list-style: none;
+      border: 1px dashed #888;
+    }
+    img.legend {
+      width: 267px;
+      height: 32px;
+      border: 1px solid #888;
+    }
+/*]]>*/
+  </style>
+  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii" />
+  <script type="text/javascript" src="http://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=6.2">
+  </script>  
+
+  <script type="text/javascript">
+//<![CDATA[
+var map = null;
+var tileLayer;
+var global_obs_ext = new VEShapeLayer();
+var cw_advisories = new VEShapeLayer();
+var hurricane = new VEShapeLayer();
+function GetMap() {
+  map = new VEMap('myMap');
+  map.LoadMap();
+}
+
+function AddLayer(product) {
+  var bounds = [ new VELatLongRectangle(new VELatLong(85,-180), new VELatLong(-85,180))];
+  var tileSource = "http://maps.customweather.com/cw_tiles/FRwy3u88iGVIE7iM2Nkvm5eQanBGRkHgxII-W-K78m4gTZ5tZdPk2d-9Eggu_UiX/"+product+"/%4.png"
+  var tileSourceSpec = new VETileSourceSpecification(product, tileSource);
+
+  tileSourceSpec.NumServers = 8;
+  tileSourceSpec.Bounds     = bounds;
+  tileSourceSpec.MinZoom    = 1;
+  tileSourceSpec.MaxZoom    = 9;
+  tileSourceSpec.Opacity    = 0.65;
+  tileSourceSpec.ZIndex     = 100;
+  map.AddTileLayer(tileSourceSpec, true);
+}
+
+function RemoveLayer(product) {
+    map.DeleteTileLayer(product);
+}
+
+function toggleLayer(checkbox, product) {
+  if (checkbox.checked) {
+    AddLayer(product);
+  } else {
+    RemoveLayer(product);
+    hideLegend();
+  }
+}
+
+function toggleLegend(isHidden) {
+  var legend = document.getElementById('legend');
+  var myMap = document.getElementById('myMap');
+  var show = document.getElementById('show');
+  var hide = document.getElementById('hide');
+  if (isHidden) {
+    legend.style.display = 'inline';
+    legend.style.minWidth = '300';
+    myMap.style.left = '360px';
+    show.style.display = 'none';
+    hide.style.display = 'inline';
+  } else {
+    legend.style.display = 'none';
+    legend.style.minWidth = '0';
+    myMap.style.left = '45px';
+    show.style.display = 'inline';
+    hide.style.display = 'none';
+  }
+}
+
+//]]>
+  </script>
+	<link type="text/css" href="http://web-dev1.customweather.com/CSS/demos/maptiles/jquery.ui.all.css" rel="stylesheet" />
+	<link type="text/css" href="http://web-dev1.customweather.com/CSS/demos/maptiles/demos.css" rel="stylesheet" />
+	<script type="text/javascript" src="http://web-dev1.customweather.com/javascript/demos/jquery-1.4.2.js"></script>
+	<script type="text/javascript" src="http://web-dev1.customweather.com/javascript/demos/jquery.ui.core.js"></script>
+	<script type="text/javascript" src="http://web-dev1.customweather.com/javascript/demos/jquery.ui.widget.js"></script>
+	<script type="text/javascript" src="http://web-dev1.customweather.com/javascript/demos/jquery.ui.accordion.js"></script>
+	<script type="text/javascript">
+	$(function() {
+		$("#accordion").accordion({
+			autoHeight: false,
+			collapsible: true
+		});
+	});
+	</script>
+	<script type="text/javascript">
+
+	  function drawList () {
+	  var arrayL = new Array();
+	  arrayL[0] = new Array();
+	  arrayL[0]['lang'] = "Cooling Degree Days";
+	  arrayL[0]['layer'] = "cdd_day_e_0";
+	  arrayL[0]['scaleType'] = "";
+	  arrayL[1] = new Array();
+	  arrayL[1]['lang'] = "Cloud Cover (Total)";
+	  arrayL[1]['layer'] = "cloudtotal_day_e_0";
+	  arrayL[1]['scaleType'] = "";
+	  arrayL[2] = new Array();
+	  arrayL[2]['lang'] = "Growing Degree Days";
+	  arrayL[2]['layer'] = "gdd_day_e_0";
+	  arrayL[2]['scaleType'] = "";	  
+	  arrayL[3] = new Array();
+	  arrayL[3]['lang'] = "Heating Degree Days";
+	  arrayL[3]['layer'] = "hdd_day_e_0";
+	  arrayL[3]['scaleType'] = "";
+	  arrayL[4] = new Array();
+	  arrayL[4]['lang'] = "Ice Accumulation (Daily)";
+	  arrayL[4]['layer'] = "icefall_day_e_0";
+	  arrayL[4]['scaleType'] = "";
+	  arrayL[5] = new Array();
+	  arrayL[5]['lang'] = "Rainfall (7-Day Accumulated  Total)";
+	  arrayL[5]['layer'] = "rainfall_cum_day_e_6";
+	  arrayL[5]['scaleType'] = "";
+	  arrayL[6] = new Array();
+	  arrayL[6]['lang'] = "Rainfall (Daily Totals)";
+	  arrayL[6]['layer'] = "rainfall_day_e_0";
+	  arrayL[6]['scaleType'] = "";	
+	  arrayL[7] = new Array();
+	  arrayL[7]['lang'] = "Relative Humidity";
+	  arrayL[7]['layer'] = "2m_relative_humidity_day_e_0";
+	  arrayL[7]['scaleType'] = "";
+	  arrayL[8] = new Array();
+	  arrayL[8]['lang'] = "Snowfall (7-Day Accumulated Total)";
+	  arrayL[8]['layer'] = "snowfall_cum_day_e_6";
+	  arrayL[8]['scaleType'] = "";
+	  arrayL[9] = new Array();
+	  arrayL[9]['lang'] = "Snowfall (Daily Totals)";
+	  arrayL[9]['layer'] = "snowfall_day_e_0";
+	  arrayL[9]['scaleType'] = "";
+	  arrayL[10] = new Array();	  
+	  arrayL[10]['lang'] = "Soil Moisture (0-10cm)";
+	  arrayL[10]['layer'] = "soil_moisture_0_10_day_e_0";
+	  arrayL[10]['scaleType'] = "";
+	  arrayL[11] = new Array();
+	  arrayL[11]['lang'] = "Soil Moisture (10-40cm)";
+	  arrayL[11]['layer'] = "soil_moisture_10_40_day_e_0";
+	  arrayL[11]['scaleType'] = "";
+	  arrayL[12] = new Array();
+	  arrayL[12]['lang'] = "Storm Potential (Surface CAPE)";
+	  arrayL[12]['layer'] = "capesfc_day_e_0";
+	  arrayL[12]['scaleType'] = "";
+	  arrayL[13] = new Array();
+	  arrayL[13]['lang'] = "Temperature (Dewpoint)";
+	  arrayL[13]['layer'] = "2m_dewpoint_day_e_0";
+	  arrayL[13]['scaleType'] = "";
+	  arrayL[14] = new Array();
+	  arrayL[14]['lang'] = "Temperature (Maximum)";
+	  arrayL[14]['layer'] = "maxtemp_day_e_0";
+	  arrayL[14]['scaleType'] = "";
+	  arrayL[15] = new Array();	
+	  arrayL[15]['lang'] = "Temperature (Mean)";
+	  arrayL[15]['layer'] = "meantemp_day_e_0";
+	  arrayL[15]['scaleType'] = "";
+	  arrayL[16] = new Array();	      
+	  arrayL[16]['lang'] = "Temperature (Minimum)";
+	  arrayL[16]['layer'] = "mintemp_day_e_0";
+	  arrayL[16]['scaleType'] = "";
+	  arrayL[17] = new Array();
+	  arrayL[17]['lang'] = "Temperature (Mean Departure +)";
+	  arrayL[17]['layer'] = "meantemp_dep_e_0";
+	  arrayL[17]['scaleType'] = "";
+	  arrayL[18] = new Array();
+	  arrayL[18]['lang'] = "Windspeed (Average Daily @ 10m)";
+	  arrayL[18]['layer'] = "wind_day_e_0";
+	  arrayL[18]['scaleType'] = "";
+	  arrayL[19] = new Array();
+	  arrayL[19]['lang'] = "Windspeed (Maximum Daily @ 10m)";
+	  arrayL[19]['layer'] = "max_wind_day_e_0";
+	  arrayL[19]['scaleType'] = "";
+
+     var html = "";
+	  for (var z=0;z<arrayL.length;z++) {
+					    var lang = arrayL[z]['lang'];
+					    html += "<p><label><input type='checkbox' onclick='"+ ("toggleLayer(this,\"" + (arrayL[z]['layer']) + "\"); if(this.checked){loadLegend(\"" + (arrayL[z]['layer']) + "\",\"\",\"\");") +"} else { hideLegend(); }' />"+(lang)+"</label><br></p>";
+					    }
+					    return html;
+					    }
+					  
+	</script>
+</head>
+
+<body onload="GetMap();">
+
+  <div id="legendButtons">
+    <button id="show" style="display:none;" onclick="toggleLegend(true);">&gt;&gt;</button>
+    <button id="hide" onclick="toggleLegend(false);">&lt;&lt; Hide Menu</button>
+  </div>
+  
+  <div style="z-index: 200; position: fixed; top: 0px; right: 0px">
+    <div style='position:absolute; right: 0px'>
+      <script type="text/javascript" src="http://web-dev1.customweather.com/demos/maptiles/layer_info/js/cwLegend.js"></script>
+    </div>
+  </div>
+  <div id='myMap' style="width:auto; height:100%; min-width:340px; min-height:200px;"></div>
+
+  <div id='legend'>
+
+<div id="demo-frame">
+
+<div class="demo">
+
+<div id="accordion">
+	<h3><a href="#">Current Conditions</a></h3>
+	<div>
+
+          <p>
+            <label><input type="checkbox" onclick="toggleLayer(this,'synoptic_temp'); if(this.checked){loadGradientLegend('mean', 'Current Temperatures', 'synoptic_temp')}  else { hideLegend(); }" />Current Temperatures</label><br>
+          </p>
+	  
+          <p>
+            <label><input type="checkbox" onclick="toggleLayer(this,'synoptic_humidity'); if(this.checked){loadLegend('2m_relative_humidity_day_e_0', 'Current Humidity','synoptic_humidity')}  else { hideLegend(); }" />Current Humidity</label><br>
+          </p>
+	  
+          <p>
+            <label><input type="checkbox" onclick="toggleLayer(this,'synoptic_dewpoint'); if(this.checked){loadLegend('2m_dewpoint_day_e_0', 'Current Dewpoint Temperatures','synoptic_dewpoint')}  else { hideLegend(); }" />Current Dewpoint Tempatures</label><br>
+          </p>
+
+          <p>
+            <label><input type="checkbox" onclick="toggleLayer(this,'synoptic_wind'); if(this.checked){loadLegend('wind_day_e_0', 'Current Windspeed','synoptic_wind')}  else { hideLegend(); }" />Current Windspeed</label><br>
+          </p>
+<!--
+          <p>
+            <label><input type="checkbox" onclick="toggleLayer(this,'synoptic_synoptic_percip6hr'); if(this.checked){loadLegend('rainfall_day_e_0', 'Past 6-Hour Perciptitation', '')}  else { hideLegend(); }" />Past 6-Hour Preciptiation</label><br>
+          </p>
+-->
+</div>
+	<h3><a href="#">Global Forecast System (GFS)</a></h3>
+	<div>	  	  
+	  <script>
+	    var list = drawList();
+	    document.write(list);
+	  </script>
+		<p>
+		Data resolution: 0.5 x 0.5 degrees, based on UTC.<BR>
+		Layers are current.<BR>
+		CAPE = Convective Available Potential Energy<BR>
+		<sup>+</sup> Climate mean: 1981-2009
+		</p>
+	</div>
+</div><!-- end accordion -->
+<font face ="verdana,arial" size="1"><br>You can choose multi-layers from each individual section or from multiple sections if you like.</font>
+</div><!-- End demo -->
+</div><!-- End demo_wrapper -->
+</div><!-- End div legend -->
+
+
+</body>
+</html>
+ 

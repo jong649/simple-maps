@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Weather for your world</title>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii" />
+<meta http-equiv='imagetoolbar' content='no' />
+<link rel="stylesheet" href="cw_demo.css" type="text/css">
+<link rel="stylesheet" href="http://openlayers.org/en/v3.7.0/css/ol.css" type="text/css">
+<link type="text/css" href="/CSS/demos/maptiles/jquery.ui.all.css" rel="stylesheet" />
+<link type="text/css" href="/CSS/demos/maptiles/demos.css" rel="stylesheet" />
+<script type="text/javascript" src="http://openlayers.org/en/v3.7.0/build/ol.js"></script>
+<script type="text/javascript" src="cw_demo.js" ></script>
+<script type="text/javascript" src="/javascript/demos/jquery-1.4.2.js"></script>
+<script type="text/javascript" src="/javascript/demos/jquery.ui.core.js"></script>
+<script type="text/javascript" src="/javascript/demos/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="/javascript/demos/jquery.ui.accordion.js"/></script>
+
+  <script type="text/javascript">
+      model_update = function(data){
+        meta=data.model_update;
+      }
+
+      cwslayers = function(data){
+        cwsspec=data;
+        for (var key in cwsspec) {
+          if (cwsspec.hasOwnProperty(key)) {
+            //   console.log(key + " -> " + cwsspec[key]);
+          }
+        }
+      }
+    </script>
+
+    <script src="cwslayers.js" type="text/javascript"></script>
+    <script src="http://live.customweather.com/xml?product=model_update&callback=model_update&model_update.full=true&client=bradburn&client_password=woll0BScre" type="text/javascript"></script>
+
+<script src="select.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+$(function() {
+$("#accordion").accordion({
+autoHeight: false,
+collapsible: true
+});
+});
+</script>
+</head>
+
+
+
+
+<body onload="GetMap();">
+<div id="header" hidden="true">
+          <h2 id="cw_title_h2">CustomWeather MapTile Demo</h2>
+          <h3 id="cw_title_h3">Model Data</h3>
+</div>
+<div id="debug" style="position:absolute; bottom:0px; z-index: 24"></div>
+  <div id="legendButtons">
+    <button id="show" style="display:none;" onclick="toggleLegend(true);">&gt;&gt;</button>
+    <button id="hide" onclick="toggleLegend(false);">&lt;&lt; Hide Menu</button>
+	<!--
+       <a onClick="document.cookie='cwUnit=metric;';window.location.reload()"><?php echo $Settings->cwUnit . " units (<span class='button'>change</span>)"; ?></a>
+       <a onClick="document.cookie='cwUnit=standard;';window.location.reload();"><?php echo $Settings->cwUnit . " units (<span class='button'>change</span>)"; ?></a>
+      -->
+  </div> <!-- end legendButtons -->
+
+  <!-- legend -->
+  <div style="z-index: 200; position: fixed; top: 0px; right: 0px">
+    <div style='position:absolute; right: 0px'>
+      <script type="text/javascript" src="cwLegend.js"></script>
+    </div>
+  </div> <!-- close legend -->
+
+  <!-- map-->
+  <div id='myMap' style="width:auto; height:100%; min-width:340px; min-height:200px;">
+        <div style="clear: both;"></div>
+
+        <div id="controls" hidden="false" style="position:absolute; bottom:0px; z-index: 240">
+          <input id="left" type="button" value="&lt;&lt;" onClick="left()"/>
+          <input id="stop" type="button" value="&#61;" onClick="toggle()"/>
+          <input id="right" type="button" value="&gt;&gt;" onClick="right()"/>
+          <input id="slider" type="range" value="0" min="0" max="61" step="1"  onchange="sliderChange()" oninput="sliderInput()">
+          <strong id="isodate"></strong>
+        </div>
+                            <div id="phatluv">
+                                        <!--img src="https://maps.gstatic.com/intl/en_us/mapfiles/markers2/measle.png"/-->
+                                </div>
+      <script type="text/javascript">
+$("#phatluv").load('http://clients.customweather.com/demos/layer_info/paletteFEED.php?palette.name=rgbset_SREF_CAPE.cpt body');
+	</script>
+      <!--script type="text/javascript" src="cwLegend.js"></script-->
+		
+  </div> <!--end of map -->
+	
+  <div id="legend">
+  <div id="demo-frame">
+  <div class="demo">
+  <div id="accordion">
+
+	<h3><a href="#">Satellite and Radar</a></h3>
+	<div>
+		<p>
+	      	<label><input type="checkbox" onclick="toggleLayer(this,'global_ir_satellite_10km')" />IR satellite</label><br>
+    	  	<label><input type="checkbox" onclick="toggleLayer(this,'smooth_satellite')" />Visible satellite</label><br>      
+      		<label><input type="checkbox" onclick="toggleLayer(this,'radar_ex')" />United States Radar </label><br>
+   		   	<label><input type="checkbox" onclick="toggleLayer(this,'can_radar')" />Canadian Radar</label><br>
+  	    	<label><input type="checkbox" onclick="toggleLayer(this,'au_radar')" />Australian Radar</label><br>
+		</p>
+			<p>
+				Layers are current.
+		</p>
+	
+	</div>
+	
+	<h3><a href="#">Point information</a></h3>
+	<div>
+		<p>
+       		<label><input type="checkbox" onclick="toggleLayer(this,'global_obs_ext')" />Global Weather Observations</label><br>
+   		    <label><input type="checkbox" onclick="toggleLayer(this,'cw_advisories')" />CustomWeather Advisories</label><br>
+      		<label><input type="checkbox" onclick="toggleLayer(this,'hurricane')" />Active Hurricanes </label><br>
+      		<label><input type="checkbox" onclick="toggleLayer(this,'lightning')" />Lightning Strikes</label><br>
+      		<label><input type="checkbox" onclick="toggleLayer(this,'nws_alerts')" />NWS Alerts<sup>*</sup></label><br>
+		</p>
+		<p>
+		<font color="red">* NWS Alerts (watches and warnings) are for the United States only.<br>Lightning strikes are for North America only.</font><BR>
+		Layers are current.
+		</p>
+	</div>
+
+
+	<h3><a href="#">Current Conditions</a></h3>
+	<div>
+	  <label><input type="checkbox" onclick="toggleLayer(this,'synoptic_dewpoint'); if(this.checked){loadLegend('2m_dewpoint_day_e_0', 'Current Dewpoint Temperatures','synoptic_dewpoint', metric);}" />Dewpoint Tempatures</label><br>
+          <label><input type="checkbox" onclick="toggleLayer(this,'synoptic_humidity'); if(this.checked){loadLegend('2m_relative_humidity_day_e_0', 'Current Humidity','synoptic_humidity', metric);}" />Relative Humidity</label><br>
+	  <label><input type="checkbox" onclick="toggleLayer(this,'synoptic_temp'); if(this.checked){loadGradientLegend('mean', 'Current Temperatures', 'synoptic_temp', metric);}" />Temperatures</label><br>
+          <label><input type="checkbox" onclick="toggleLayer(this,'synoptic_wind'); if(this.checked){loadLegend('wind_day_e_0', 'Current Windspeed','synoptic_wind', metric);}" />Windspeed</label><br>
+	  <p>Layers are based on the most currently available data.</p>
+	</div>
+
+	<h3><a href="#">Global Forecast System (GFS)</a></h3>
+	<div>
+	  <label><input type='checkbox' onclick='toggleLayer(this,"cdd_day_e_0")' />Cooling Degree Days</label><br>
+	  <label><input type='checkbox' onclick='toggleLayer(this,"cloudtotal_day_e_0")' />Cloud Cover (Total)</label><br>
+	  <label><input type='checkbox' onclick='toggleLayer(this,"gdd_day_e_0")' />Growing Degree Days</label><br>
+	  <label><input type='checkbox' onclick='toggleLayer(this,"hdd_day_e_0")' />Heating Degree Days</label><br>
+	  <label><input type='checkbox' onclick='toggleLayer(this,"icefall_day_e_0")' />Ice Accumulation (Daily)</label><br>
+	  <label><input type='checkbox' onclick='toggleLayer(this,"rainfall_cum_day_e_6")' />Rainfall (7-Day Accumulated  Total)</label><br>
+	  <label><input type='checkbox' onclick='toggleLayer(this,"rainfall_day_e_0")' />Rainfall (Daily Totals)</label><br>
+	  <label><input type='checkbox' onclick='toggleLayer(this,"2m_relative_humidity_day_e_0")' />Relative Humidity</label><br>
+	  <label><input type='checkbox' onclick='toggleLayer(this,"snowfall_cum_day_e_6")' />Snowfall (7-Day Accumulated Total)</label><br>
+	  <label><input type='checkbox' onclick='toggleLayer(this,"snowfall_day_e_0")' />Snowfall (Daily Totals)</label><br>
+	  
+	  <label><input type='checkbox' onclick='toggleLayer(this,"soil_moisture_0_10_day_e_0")' />Soil Moisture (0-10cm)</label><br>
+	  <label><input type='checkbox' onclick='toggleLayer(this,"soil_moisture_10_40_day_e_0")' />Soil Moisture (10-40cm)</label><br>
+	  <label><input type='checkbox' onclick='toggleLayer(this,"capesfc_day_e_0")' />Storm Potential (Surface CAPE)</label><br>
+	  <label><input type='checkbox' onclick='toggleLayer(this,"2m_dewpoint_day_e_0")' />Temperature (Dewpoint)</label><br>
+	  <label><input type='checkbox' onclick='toggleLayer(this,"maxtemp_day_e_0")' />Temperature (Maximum)</label><br>
+	  <label><input type='checkbox' onclick='toggleLayer(this,"meantemp_day_e_0")' />Temperature (Mean)</label><br>
+	  <label><input type='checkbox' onclick='toggleLayer(this,"mintemp_day_e_0")' />Temperature (Minimum)</label><br>
+          <label><input type='checkbox' onclick='toggleLayer(this,"meantemp_dep_e_0")' />Temperature (Mean Departure +)</label><br>
+          <label><input type='checkbox' onclick='toggleLayer(this,"wind_day_e_0")' />Windspeed (Average Daily @ 10m)</label><br>
+          <label><input type='checkbox' onclick='toggleLayer(this,"max_wind_day_e_0");'/>Windspeed (Maximum Daily @ 10m)</label><br>
+
+		<p>
+		Data resolution: 0.5 x 0.5 degrees, based on UTC.<BR>
+		Layers are current.<BR>
+		CAPE = Convective Available Potential Energy<BR>
+		<sup>+</sup> Climate mean: 1981-2009
+		</p>
+	</div>
+
+	<h3><a href="#">Global Data Assimilation System (GDAS)</a></h3>
+	<div>
+		<p>
+        	<label><input type="checkbox" onclick="toggleLayer(this,'global_sst_day_m_0')" />Sea Surface Temperature</label><br>
+		</p>
+		<p>
+		Data resolution: 1x1 degrees, based on UTC.<BR>
+		Layers are not current.
+		</p>
+	</div>
+
+	<h3><a href="#">National Digital Forecast Database (NDFD)*</a></h3>
+	<div>
+		<p>
+        	<label><input type="checkbox" onclick="toggleLayer(this,'ndfd_maxtemp_day1')" />Maximum Temperature</label><br>
+      		<label><input type="checkbox" onclick="toggleLayer(this,'ndfd_mintemp_day1')" />Minimum Temperature</label><br>
+      		<label><input type="checkbox" onclick="toggleLayer(this,'ndfd_maxwindspeed_day1')" />Maximum Windspeed</label><br>
+     		<label><input type="checkbox" onclick="toggleLayer(this,'ndfd_rainfall_day1')" />Rainfall</label><br>
+		</p>
+		<p>
+		<font color="red">*NDFD layers are for the United States only.</font><BR>
+		Data resolution: 5km x 5km.<BR>
+		Layers are not current.
+		</p>
+	</div>
+
+	<h3><a href="#">Miscellaneous</a></h3>
+	<div>
+		<p>
+      		<label><input type="checkbox" onclick="toggleLayer(this,'base')" />Global High Resolution Basemap</label><br>
+      		<label><input type="checkbox" onclick="toggleLayer(this,'counties')" />USA County borders</label><br>
+		</p>
+	</div>
+
+	
+	<h3><a href="#">CWS Animation Layers</a></h3>
+	<div>
+	  <label>Active:<input type='checkbox' onclick='toggleCWS(this)'/></label><br>
+	  
+	  <label>Model Source:<select id="source_select">
+	    <option value="selection">select</option>
+	  </select></label><br>
+	  
+	  <label>Layer/Level:<select id="layer_select">
+	    <option value="selection">select</option>
+	  </select></label><br>
+	</div>
+	
+
+
+</div><!-- end accordion -->
+<font face ="verdana,arial" size="1"><br>You can choose multi-layers from each individual section or from multiple sections if you like.</font>
+</div><!-- End demo -->
+</div><!-- End dmeo_wrapper -->
+</div><!-- End div legend -->
+
+
+</body>
+</html>
+
+
+

@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+<HEAD>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" href="lib/palette.css" type="text/css" media="screen">
+<link rel="stylesheet" href="lib/palette-print.css" type="text/css" media="print">
+<script src="lib/raphael-full.js" type="text/javascript" charset="utf-8"></script>
+<script src="nws_colors.js" type="text/javascript" charset="utf-8"></script>
+</head>
+<body>
+<div id="palette"></div>
+<SCRIPT type="text/javascript" charset="utf-8">
+var WX=640;
+var HX=640;
+var palette = document.getElementById("palette");
+Raphael.fn.cell = function (x, y, w, h, hue, stroke) {
+   return this.set(this.rect(x, y, w, h, 0).attr({fill : hue, opacity: 1 }));
+};
+function drawCells(){
+  var R = Raphael(palette, WX, HX);
+  var size=12;
+  var r =10
+  var width = WX/size;   // width per item
+  var cnt = 0;
+  var xstart = 0;
+  for (var key in colorMap) {
+      if (colorMap.hasOwnProperty(key)) {
+           var color = colorMap[key];
+           R.text(xstart+width+10, (cnt*20)+10, key).attr({'text-anchor': 'start'});
+           R.cell(xstart, cnt*20, width, r*2, color, true);
+           cnt++;
+      }
+    }
+}
+drawCells();
+</script>
+</body>
+
+</html>

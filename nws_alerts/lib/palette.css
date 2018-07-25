@@ -1,0 +1,21 @@
+
+#palette {
+    height: 500px;
+    width: 500px;
+    left:400px;
+    top:  400px;
+    z-index:5000;
+    position: absolute;
+}
+#copy {
+    bottom: 0;
+    font: 300 .7em "Helvetica Neue", Helvetica, "Arial Unicode MS", Arial, sans-serif;
+    position: absolute;
+    right: 1em;
+    text-align: right;
+}
+#copy a {
+    color: #fff;
+}
+
+

@@ -1,0 +1,1795 @@
+Navigated to http://web-dev1.customweather.com/templates/IAAI/maptile/nws_alerts/nws_alerts.php
+util.js:220 Google Maps API warning: NoApiKeys https://developers.google.com/maps/documentation/javascript/error-messages#no-api-keys
+rB.j @ util.js:220
+(anonymous) @ js?sensor=false:136
+(anonymous) @ js?sensor=false:53
+(anonymous) @ js?sensor=false:50
+(anonymous) @ js?sensor=false:53
+_.G @ js?sensor=false:52
+(anonymous) @ js?sensor=false:53
+_.v @ js?sensor=false:32
+Yc @ js?sensor=false:53
+(anonymous) @ js?sensor=false:136
+util.js:220 Google Maps API warning: SensorNotRequired https://developers.google.com/maps/documentation/javascript/error-messages#sensor-not-required
+rB.j @ util.js:220
+(anonymous) @ js?sensor=false:136
+(anonymous) @ js?sensor=false:53
+(anonymous) @ js?sensor=false:50
+(anonymous) @ js?sensor=false:53
+_.G @ js?sensor=false:52
+(anonymous) @ js?sensor=false:53
+_.v @ js?sensor=false:32
+Yc @ js?sensor=false:53
+(anonymous) @ js?sensor=false:136
+nws_alerts.js:49 FLOOD WARNING IN EFFECT UNTIL FURTHER NOTICE::::IAC111::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC137::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC137::::true::::#FFFF00
+3nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC137::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC137::::true::::#FFFF00
+nws_alerts.js:49 WINTER STORM WATCH::::WYZ008::::false::::#4682B4
+4nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC137::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC137::::true::::#FFFF00
+2nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC137::::true::::undefined
+nws_alerts.js:49 WINTER STORM WATCH::::WYZ009::::false::::#4682B4
+6nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC137::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC029::::true::::undefined
+nws_alerts.js:49 WINTER WEATHER WARNING, WATCH, OR ADVISORY::::WYZ015::::false::::undefined
+nws_alerts.js:49 WINTER WEATHER WARNING, WATCH, OR ADVISORY::::WYZ014::::false::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC137::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC137::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC137::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC029::::true::::undefined
+2nws_alerts.js:49 TORNADO WATCH::::IAC029::::true::::#FFFF00
+5nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC029::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC029::::true::::#FFFF00
+9nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC029::::true::::undefined
+nws_alerts.js:49 FLOOD WARNING::::IAC095::::true::::#00FF00
+3nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC029::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC029::::true::::#FFFF00
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC163::::true::::undefined
+nws_alerts.js:49 FLOOD WARNING REMAINS IN EFFECT UNTIL MONDAY MORNING::::IAC095::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC163::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC163::::true::::#DB7093
+nws_alerts.js:49 TORNADO WATCH::::IAC173::::true::::#FFFF00
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC163::::true::::undefined
+nws_alerts.js:49 FLOOD WARNING NOW IN EFFECT UNTIL THIS EVENING::::IAC163::::true::::undefined
+nws_alerts.js:49 FLOOD WARNING::::IAC163::::true::::#00FF00
+nws_alerts.js:49 TORNADO WATCH::::NEC097::::true::::#FFFF00
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC045::::true::::undefined
+nws_alerts.js:49 FLOOD WARNING::::IAC095::::true::::#00FF00
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC045::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC045::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC095::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC045::::true::::undefined
+nws_alerts.js:49 FLOOD WARNING NOW IN EFFECT UNTIL THIS EVENING::::IAC045::::true::::undefined
+nws_alerts.js:49 FLOOD WARNING::::IAC045::::true::::#00FF00
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC095::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC095::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC095::::true::::undefined
+4nws_alerts.js:49 FLOOD WARNING::::IAC095::::true::::#00FF00
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC049::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC049::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC159::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC049::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC049::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC049::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC183::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC159::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC183::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC159::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC183::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC183::::true::::undefined
+nws_alerts.js:49 FLOOD ADVISORY::::ILC165::::true::::#00FF7F
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC123::::true::::#DB7093
+2nws_alerts.js:49 FLOOD WARNING::::ILC013::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING::::ILC137::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING::::ILC013::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING::::ILC137::::true::::#00FF00
+2nws_alerts.js:49 FLOOD WARNING::::ILC013::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING::::ILC137::::true::::#00FF00
+2nws_alerts.js:49 FLOOD WARNING::::ILC013::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING::::ILC137::::true::::#00FF00
+2nws_alerts.js:49 FLOOD WARNING::::ILC013::::true::::#00FF00
+5nws_alerts.js:49 FLOOD WARNING::::ILC137::::true::::#00FF00
+nws_alerts.js:49 SEVERE WEATHER STATEMENT::::NEC159::::true::::#00FFFF
+6nws_alerts.js:49 FLOOD WARNING::::ILC137::::true::::#00FF00
+6nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC159::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC159::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC159::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC123::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC145::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC123::::true::::undefined
+6nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC143::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC143::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC143::::true::::undefined
+3nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC105::::true::::undefined
+nws_alerts.js:49 SEVERE WEATHER STATEMENT::::KSC105::::true::::#00FFFF
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC105::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC105::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC105::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC141::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC159::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC141::::true::::undefined
+nws_alerts.js:49 SEVERE WEATHER STATEMENT::::KSC097::::true::::#00FFFF
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::NEC129::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::NEC129::::true::::undefined
+2nws_alerts.js:49 FLOOD ADVISORY::::MIC133::::true::::#00FF7F
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC185::::true::::undefined
+4nws_alerts.js:49 FLOOD ADVISORY::::MIC133::::true::::#00FF7F
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC099::::true::::undefined
+2nws_alerts.js:49 FLOOD ADVISORY::::MIC133::::true::::#00FF7F
+nws_alerts.js:49 FLOOD ADVISORY::::TXC497::::true::::#00FF7F
+nws_alerts.js:49 FLOOD ADVISORY::::MIC065::::true::::#00FF7F
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::MNC039::::true::::#90EE90
+19nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::MOC087::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::MOC087::::true::::#FFFF00
+nws_alerts.js:49 FLOOD ADVISORY::::OHC153::::true::::#00FF7F
+nws_alerts.js:49 FLOOD STATMENT::::OHC153::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC099::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC099::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC099::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC099::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC099::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC153::::true::::undefined
+2nws_alerts.js:49 FLOOD WARNING::::PRC067::::true::::#00FF00
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC153::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC153::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC159::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC153::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC153::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC159::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC153::::true::::undefined
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::MNC157::::true::::#90EE90
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC157::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC145::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC157::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC159::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC157::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC157::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC157::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC157::::true::::undefined
+2nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIC053::::true::::#90EE90
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC159::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC159::::true::::#DB7093
+4nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC159::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC155::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC159::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC159::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC145::::true::::#DB7093
+2nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIC043::::true::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIC055::::true::::#90EE90
+3nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC145::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC145::::true::::#DB7093
+4nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC145::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC145::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC145::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC185::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC185::::true::::#DB7093
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC185::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC185::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC201::::true::::undefined
+4nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC185::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC185::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC185::::true::::undefined
+3nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC103::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC103::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC103::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC123::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC123::::true::::#DB7093
+nws_alerts.js:49 TORNADO WATCH::::IAC077::::true::::#FFFF00
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC123::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC123::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC123::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC131::::true::::undefined
+3nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC085::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC085::::true::::#FFFF00
+3nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC085::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC085::::true::::#FFFF00
+8nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC085::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC131::::true::::#DB7093
+2nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC085::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC085::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC085::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC077::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC077::::true::::#FFFF00
+5nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC077::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC131::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC077::::true::::#FFFF00
+6nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC077::::true::::undefined
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::IAC131::::true::::#90EE90
+6nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC077::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC077::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC077::::true::::undefined
+3nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC165::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC165::::true::::#FFFF00
+4nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC165::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC165::::true::::#FFFF00
+3nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC165::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC165::::true::::#FFFF00
+7nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC165::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC009::::true::::#FFFF00
+5nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC009::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC009::::true::::#FFFF00
+12nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC009::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC009::::true::::#FFFF00
+nws_alerts.js:49 FLOOD STATMENT::::LAC099::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC157::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC157::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC089::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC089::::true::::#DB7093
+5nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC201::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC201::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC131::::true::::#DB7093
+6nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC131::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC117::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC131::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC131::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC131::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC117::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC117::::true::::#DB7093
+5nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC117::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC117::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC117::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC013::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC013::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC013::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC013::::true::::#DB7093
+7nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC013::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC013::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC013::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC083::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC083::::true::::#DB7093
+5nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC083::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC083::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC079::::true::::#DB7093
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC079::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC079::::true::::#DB7093
+3nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC079::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC079::::true::::#DB7093
+5nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC079::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC079::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC155::::true::::#DB7093
+nws_alerts.js:49 SEVERE WEATHER STATEMENT::::KSC155::::true::::#00FFFF
+4nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC155::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC155::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC047::::true::::undefined
+4nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC155::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC155::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC047::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC155::::true::::undefined
+nws_alerts.js:49 SEVERE WEATHER STATEMENT::::KSC047::::true::::#00FFFF
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC047::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC047::::true::::#DB7093
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC047::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC145::::true::::undefined
+5nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC047::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC047::::true::::#DB7093
+nws_alerts.js:49 TORNADO WATCH::::IAC145::::true::::#FFFF00
+nws_alerts.js:49 FLOOD ADVISORY::::ILC089::::true::::#00FF7F
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC073::::true::::undefined
+nws_alerts.js:49 FLOOD ADVISORY::::WIC075::::true::::#00FF7F
+2nws_alerts.js:49 FLOOD ADVISORY::::ILC089::::true::::#00FF7F
+nws_alerts.js:49 FLOOD STATEMENT::::WIC075::::true::::#00FF00
+nws_alerts.js:49 FLOOD ADVISORY::::ILC089::::true::::#00FF7F
+nws_alerts.js:49 FLOOD WARNING::::VTC011::::true::::#00FF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC145::::true::::undefined
+nws_alerts.js:49 SEVERE WEATHER STATEMENT::::TXC321::::true::::#00FFFF
+nws_alerts.js:49 FLOOD WARNING::::NYC031::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING::::VTC011::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING::::NYC115::::true::::#00FF00
+2nws_alerts.js:49 FLOOD ADVISORY::::ILC089::::true::::#00FF7F
+nws_alerts.js:49 FLOOD WARNING::::ILC125::::true::::#00FF00
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::ILC161::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC085::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::ILC161::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC085::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::ILC161::::true::::undefined
+nws_alerts.js:49 FLOOD WARNING::::ILC161::::true::::#00FF00
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC085::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::ILC161::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::ILC161::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC085::::true::::undefined
+2nws_alerts.js:49 FLOOD WARNING::::ILC161::::true::::#00FF00
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC085::::true::::undefined
+2nws_alerts.js:49 FLOOD WARNING::::ILC161::::true::::#00FF00
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC085::::true::::undefined
+2nws_alerts.js:49 FLOOD WARNING::::ILC161::::true::::#00FF00
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC085::::true::::undefined
+2nws_alerts.js:49 FLOOD WARNING::::ILC161::::true::::#00FF00
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC085::::true::::undefined
+nws_alerts.js:49 FLOOD WARNING::::ILC161::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING::::ILC125::::true::::#00FF00
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC085::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC085::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC085::::true::::undefined
+2nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC151::::true::::undefined
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::IAC131::::true::::#90EE90
+6nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC151::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC151::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC151::::true::::undefined
+nws_alerts.js:49 FLOOD STATMENT::::TXC387::::true::::undefined
+3nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIC119::::true::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::IAC065::::true::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIC119::::true::::#90EE90
+2nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIC081::::true::::#90EE90
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC145::::true::::undefined
+nws_alerts.js:49 FLOOD WARNING::::TXC037::::true::::#00FF00
+nws_alerts.js:49 FLOOD STATMENT::::TXC159::::true::::undefined
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIC081::::true::::#90EE90
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC003::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC073::::true::::undefined
+2nws_alerts.js:49 FLOOD WARNING::::TXC037::::true::::#00FF00
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIC105::::true::::#90EE90
+nws_alerts.js:49 FLOOD STATEMENT::::WIC105::::true::::#00FF00
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIC105::::true::::#90EE90
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC073::::true::::undefined
+nws_alerts.js:49 FLOOD STATEMENT::::WIC105::::true::::#00FF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC073::::true::::undefined
+nws_alerts.js:49 FLOOD WARNING::::WIC105::::true::::#00FF00
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIC105::::true::::#90EE90
+nws_alerts.js:49 FLOOD WARNING::::WIC105::::true::::#00FF00
+2nws_alerts.js:49 FLOOD WARNING::::WIC059::::true::::#00FF00
+nws_alerts.js:49 TORNADO WATCH::::IAC073::::true::::#FFFF00
+nws_alerts.js:49 FLOOD WARNING::::LAC103::::true::::#00FF00
+nws_alerts.js:49 FLOOD STATMENT::::LAC103::::true::::undefined
+2nws_alerts.js:49 FLOOD WARNING::::PRC097::::true::::#00FF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC003::::true::::undefined
+nws_alerts.js:49 FLOOD STATMENT::::ARC027::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC073::::true::::undefined
+2nws_alerts.js:49 TORNADO WATCH::::IAC073::::true::::#FFFF00
+3nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC073::::true::::undefined
+2nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC071::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC173::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC071::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC173::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH::::IAC071::::true::::#FFFF00
+4nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC071::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC071::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC071::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC003::::true::::undefined
+9nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC071::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC071::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH::::IAC173::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC145::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC145::::true::::#FFFF00
+4nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC145::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC145::::true::::#FFFF00
+7nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC145::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC003::::true::::#FFFF00
+2nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC145::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC145::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC145::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC003::::true::::#FFFF00
+nws_alerts.js:49 FLOOD WARNING REMAINS IN EFFECT UNTIL FURTHER NOTICE::::IAC057::::true::::undefined
+nws_alerts.js:49 FLOOD WARNING NOW IN EFFECT UNTIL FURTHER NOTICE::::IAC057::::true::::undefined
+nws_alerts.js:49 FLOOD WARNING IN EFFECT UNTIL FURTHER NOTICE::::IAC057::::true::::undefined
+nws_alerts.js:49 FLOOD WARNING::::IAC057::::true::::#00FF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC003::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC003::::true::::#FFFF00
+3nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC003::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC003::::true::::#FFFF00
+12nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC003::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC001::::true::::undefined
+2nws_alerts.js:49 TORNADO WATCH::::IAC001::::true::::#FFFF00
+6nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC001::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC001::::true::::#FFFF00
+4nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC001::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC001::::true::::#FFFF00
+8nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC001::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC129::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC129::::true::::#FFFF00
+2nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC129::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC047::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH::::IAC129::::true::::#FFFF00
+4nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC129::::true::::undefined
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::IAC067::::true::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::IAC191::::true::::#90EE90
+2nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC129::::true::::undefined
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::IAC191::::true::::#90EE90
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC129::::true::::undefined
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::IAC191::::true::::#90EE90
+6nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC129::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC129::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC129::::true::::undefined
+3nws_alerts.js:49 HYDROLOGIC OUTLOOK::::IAC191::::true::::#90EE90
+5nws_alerts.js:49 HYDROLOGIC OUTLOOK::::IAC131::::true::::#90EE90
+6nws_alerts.js:49 HYDROLOGIC OUTLOOK::::IAC089::::true::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::IAC005::::true::::#90EE90
+5nws_alerts.js:49 HYDROLOGIC OUTLOOK::::IAC065::::true::::#90EE90
+5nws_alerts.js:49 HYDROLOGIC OUTLOOK::::IAC067::::true::::#90EE90
+3nws_alerts.js:49 HYDROLOGIC OUTLOOK::::IAC037::::true::::#90EE90
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC047::::true::::undefined
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::IAC037::::true::::#90EE90
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC015::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC015::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC015::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC015::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC015::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC127::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC127::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC127::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC127::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC127::::true::::undefined
+4nws_alerts.js:49 HYDROLOGIC OUTLOOK::::IAC043::::true::::#90EE90
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC017::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC113::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC017::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC017::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC017::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC017::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC047::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC023::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC023::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC023::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC023::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC023::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC197::::true::::#DB7093
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC069::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC069::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC069::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC069::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC069::::true::::undefined
+3nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC061::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC061::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC061::::true::::undefined
+3nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC055::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC055::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC055::::true::::undefined
+3nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC019::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC019::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC019::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC013::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC013::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC013::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC013::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC013::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC169::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC169::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC169::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC169::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC169::::true::::undefined
+3nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC031::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC031::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC031::::true::::undefined
+2nws_alerts.js:49 FLOOD WARNING::::IAC031::::true::::#00FF00
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC079::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC079::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC079::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC079::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC079::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC083::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC083::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC083::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC083::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC083::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC075::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC075::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC075::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC075::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC075::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC011::::true::::undefined
+3nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC097::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC097::::true::::#DB7093
+nws_alerts.js:49 TORNADO WATCH::::IAC027::::true::::#FFFF00
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC097::::true::::undefined
+3nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC105::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC105::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC105::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC169::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC011::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC011::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC011::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC113::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC169::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC113::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC113::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC113::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC171::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC171::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC171::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC171::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC171::::true::::undefined
+2nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC133::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC047::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC133::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC133::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC133::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC169::::true::::undefined
+3nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC133::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC133::::true::::#FFFF00
+9nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC133::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC133::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC133::::true::::undefined
+3nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC047::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC027::::true::::#FFFF00
+6nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC027::::true::::undefined
+3nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC139::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC139::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC139::::true::::undefined
+2nws_alerts.js:49 FLOOD WARNING::::IAC139::::true::::#00FF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC155::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC169::::true::::undefined
+2nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC155::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC155::::true::::#FFFF00
+2nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC155::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC125::::true::::undefined
+2nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC155::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC155::::true::::#FFFF00
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC169::::true::::undefined
+9nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC155::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::IAC155::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::IAC155::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC125::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC125::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC125::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC121::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC121::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC121::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC121::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC121::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC181::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC181::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC181::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC181::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC181::::true::::undefined
+3nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC107::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC107::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC107::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC115::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC169::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC115::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::IAC115::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::IAC115::::true::::undefined
+2nws_alerts.js:49 FLOOD WARNING::::IAC115::::true::::#00FF00
+4nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC169::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC169::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC169::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC127::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC127::::true::::#DB7093
+7nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC127::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC053::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC127::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC127::::true::::undefined
+nws_alerts.js:49 FLOOD STATEMENT::::IDC027::::true::::#00FF00
+nws_alerts.js:49 FLOOD STATEMENT::::IDC001::::true::::#00FF00
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC053::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC053::::true::::#DB7093
+5nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC053::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC053::::true::::#DB7093
+nws_alerts.js:49 FLOOD STATMENT::::IDC007::::true::::undefined
+nws_alerts.js:49 FLOOD ADVISORY::::ILC111::::true::::#00FF7F
+2nws_alerts.js:49 FLOOD WARNING::::ILC171::::true::::#00FF00
+nws_alerts.js:49 FLOOD ADVISORY::::ILC111::::true::::#00FF7F
+nws_alerts.js:49 FLOOD WARNING::::ILC171::::true::::#00FF00
+nws_alerts.js:49 FLOOD ADVISORY::::ILC111::::true::::#00FF7F
+4nws_alerts.js:49 FLOOD WARNING::::ILC171::::true::::#00FF00
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC113::::true::::undefined
+2nws_alerts.js:49 FLOOD WARNING::::ILC171::::true::::#00FF00
+3nws_alerts.js:49 FLOOD ADVISORY::::ILC111::::true::::#00FF7F
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC113::::true::::#DB7093
+nws_alerts.js:49 FLOOD ADVISORY::::ILC097::::true::::#00FF7F
+2nws_alerts.js:49 FLOOD WARNING::::ILC097::::true::::#00FF00
+4nws_alerts.js:49 FLOOD ADVISORY::::ILC141::::true::::#00FF7F
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC135::::true::::undefined
+nws_alerts.js:49 FLOOD ADVISORY::::ILC141::::true::::#00FF7F
+3nws_alerts.js:49 FLOOD WARNING::::ILC195::::true::::#00FF00
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC135::::true::::undefined
+7nws_alerts.js:49 FLOOD WARNING::::ILC195::::true::::#00FF00
+2nws_alerts.js:49 FLOOD ADVISORY::::ILC151::::true::::#00FF7F
+2nws_alerts.js:49 FLOOD WARNING::::ILC057::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING::::ILC083::::true::::#00FF00
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC135::::true::::undefined
+2nws_alerts.js:49 FLOOD WARNING::::ILC083::::true::::#00FF00
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC165::::true::::undefined
+2nws_alerts.js:49 FLOOD WARNING::::ILC083::::true::::#00FF00
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ045::::false::::#90EE90
+4nws_alerts.js:49 FLOOD WARNING::::ILC083::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING::::ILC169::::true::::#00FF00
+3nws_alerts.js:49 FLOOD WARNING::::ILC061::::true::::#00FF00
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC165::::true::::#DB7093
+6nws_alerts.js:49 FLOOD WARNING::::ILC061::::true::::#00FF00
+2nws_alerts.js:49 FLOOD WARNING::::ILC149::::true::::#00FF00
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC165::::true::::undefined
+nws_alerts.js:49 FLOOD STATEMENT::::ILC009::::true::::#00FF00
+20nws_alerts.js:49 FLOOD WARNING::::ILC149::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING::::ILC009::::true::::#00FF00
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC165::::true::::#DB7093
+nws_alerts.js:49 FLOOD STATEMENT::::ILC009::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING::::ILC009::::true::::#00FF00
+4nws_alerts.js:49 FLOOD WARNING::::ILC017::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING::::ILC169::::true::::#00FF00
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC113::::true::::undefined
+2nws_alerts.js:49 FLOOD WARNING::::ILC067::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING IN EFFECT UNTIL FURTHER NOTICE::::ILC067::::true::::undefined
+2nws_alerts.js:49 FLOOD STATEMENT::::ILC179::::true::::#00FF00
+2nws_alerts.js:49 FLOOD WARNING::::ILC179::::true::::#00FF00
+2nws_alerts.js:49 FLOOD STATEMENT::::ILC203::::true::::#00FF00
+2nws_alerts.js:49 FLOOD WARNING::::ILC203::::true::::#00FF00
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC113::::true::::#DB7093
+2nws_alerts.js:49 FLOOD STATEMENT::::ILC143::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING::::ILC143::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING::::ILC071::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING::::ILC143::::true::::#00FF00
+2nws_alerts.js:49 FLOOD WARNING::::ILC071::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING REMAINS IN EFFECT UNTIL FURTHER NOTICE::::ILC071::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC135::::true::::undefined
+nws_alerts.js:49 FLOOD WARNING::::ILC071::::true::::#00FF00
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC135::::true::::undefined
+nws_alerts.js:49 FLOOD WARNING NOW IN EFFECT UNTIL FURTHER NOTICE::::ILC071::::true::::undefined
+nws_alerts.js:49 FLOOD WARNING IN EFFECT UNTIL FURTHER NOTICE::::ILC071::::true::::undefined
+2nws_alerts.js:49 FLOOD WARNING::::ILC071::::true::::#00FF00
+10nws_alerts.js:49 FLOOD WARNING::::ILC073::::true::::#00FF00
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::ILC073::::true::::#FFE4B5
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC135::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC135::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC113::::true::::undefined
+4nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC165::::true::::undefined
+3nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC009::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC009::::true::::#DB7093
+4nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC009::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC009::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC009::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC113::::true::::undefined
+nws_alerts.js:49 SEVERE WEATHER STATEMENT::::KSC113::::true::::#00FFFF
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC113::::true::::#DB7093
+4nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC113::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC113::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC113::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC115::::true::::#DB7093
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC115::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC115::::true::::#DB7093
+3nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC115::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC115::::true::::#DB7093
+4nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC115::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC115::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC115::::true::::undefined
+6nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC029::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC029::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC029::::true::::undefined
+6nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC027::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC027::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC027::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC161::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC167::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC161::::true::::#DB7093
+7nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC161::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC161::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC161::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC149::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC061::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC149::::true::::#DB7093
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC149::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC061::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC149::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC051::::true::::undefined
+4nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC149::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC051::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC149::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC149::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC061::::true::::#DB7093
+4nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC061::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC167::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC061::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC051::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC061::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC061::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC061::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC061::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC197::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC197::::true::::#DB7093
+7nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC197::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC197::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC197::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC051::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC051::::true::::#DB7093
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC051::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC051::::true::::#DB7093
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC167::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC167::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC167::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC041::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC041::::true::::#DB7093
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC095::::true::::undefined
+7nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC041::::true::::undefined
+2nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::KSC041::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::KSC041::::true::::undefined
+nws_alerts.js:49 FLOOD WARNING::::LAC015::::true::::#00FF00
+nws_alerts.js:49 FLOOD STATMENT::::LAC015::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC055::::true::::#FFFF00
+3nws_alerts.js:49 FLOOD WARNING::::LAC015::::true::::#00FF00
+2nws_alerts.js:49 FLOOD WARNING::::LAC119::::true::::#00FF00
+2nws_alerts.js:49 FLOOD STATMENT::::LAC119::::true::::undefined
+nws_alerts.js:49 FLOOD WARNING::::LAC119::::true::::#00FF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC133::::true::::undefined
+nws_alerts.js:49 FLOOD WARNING::::LAC119::::true::::#00FF00
+nws_alerts.js:49 FLOOD ADVISORY::::MIC067::::true::::#00FF7F
+nws_alerts.js:49 FLOOD WARNING::::LAC119::::true::::#00FF00
+4nws_alerts.js:49 FLOOD WARNING::::LAC013::::true::::#00FF00
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::MNC109::::true::::#90EE90
+nws_alerts.js:49 FLOOD STATEMENT::::MIC043::::true::::#00FF00
+nws_alerts.js:49 FLOOD STATMENT::::MSC045::::true::::undefined
+2nws_alerts.js:49 FLOOD WARNING::::MIC011::::true::::#00FF00
+nws_alerts.js:49 EXPECTED HEAVY RAINFALL...OF 1.00 TO 1.50 INCHES TO IMPACT THE RIFLE RIVER BASIN DURING THE NEXT 24 HOURS. THE RIVER IS EXPECTED TO RISE ABOVE FLOOD STAGE BY EARLY SATURDAY MORNING::::MIC011::::true::::undefined
+2nws_alerts.js:49 FLOOD ADVISORY::::MIC067::::true::::#00FF7F
+2nws_alerts.js:49 FLOOD ADVISORY::::MIC037::::true::::#00FF7F
+nws_alerts.js:49 FLOOD WARNING::::MSC045::::true::::#00FF00
+nws_alerts.js:49 FLOOD ADVISORY::::MIC037::::true::::#00FF7F
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::MNC169::::true::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::MNC055::::true::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::MNC045::::true::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::MNC099::::true::::#90EE90
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ081::::false::::#FFE4B5
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::MOC147::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::MOC147::::true::::#FFFF00
+2nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::MOC005::::true::::undefined
+nws_alerts.js:49 FLASH FLOOD WATCH::::ARZ002::::false::::#2E8B57
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::MOC005::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC055::::true::::#FFFF00
+16nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::MOC005::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::MOC005::::true::::#FFFF00
+nws_alerts.js:49 FLOOD STATMENT::::MSC109::::true::::undefined
+nws_alerts.js:49 FLOOD WARNING::::MSC109::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING::::NDC009::::true::::#00FF00
+nws_alerts.js:49 FLOOD STATMENT::::NDC049::::true::::undefined
+nws_alerts.js:49 FLOOD STATMENT::::NDC067::::true::::undefined
+nws_alerts.js:49 FLOOD WARNING::::NDC067::::true::::#00FF00
+nws_alerts.js:49 TORNADO WATCH::::NEC053::::true::::#FFFF00
+9nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC053::::true::::undefined
+13nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC055::::true::::undefined
+3nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC177::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC177::::true::::#FFFF00
+5nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC177::::true::::undefined
+nws_alerts.js:49 FLASH FLOOD WATCH::::ARZ011::::false::::#2E8B57
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC177::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC133::::true::::undefined
+3nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC177::::true::::undefined
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ066::::false::::#FFE4B5
+nws_alerts.js:49 TORNADO WATCH::::NEC177::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC177::::true::::undefined
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ068::::false::::#2E8B57
+8nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC023::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC023::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC023::::true::::undefined
+2nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC153::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC067::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC153::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC153::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC133::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC153::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC155::::true::::undefined
+3nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC153::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC067::::true::::undefined
+4nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC153::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC067::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC153::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC153::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC153::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC025::::true::::undefined
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ030::::false::::#90EE90
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC155::::true::::undefined
+2nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC025::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC025::::true::::#FFFF00
+9nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC025::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC025::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC025::::true::::undefined
+2nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC155::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC067::::true::::undefined
+4nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC155::::true::::undefined
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ031::::false::::#90EE90
+nws_alerts.js:49 TORNADO WATCH::::NEC155::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC155::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC131::::true::::undefined
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ020::::false::::#90EE90
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC097::::true::::undefined
+2nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC131::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC131::::true::::#FFFF00
+2nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC131::::true::::undefined
+nws_alerts.js:49 SEVERE WEATHER STATEMENT::::NEC131::::true::::#00FFFF
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC131::::true::::undefined
+nws_alerts.js:49 SEVERE WEATHER STATEMENT::::NEC131::::true::::#00FFFF
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC067::::true::::undefined
+3nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC131::::true::::undefined
+nws_alerts.js:49 SEVERE WEATHER STATEMENT::::NEC131::::true::::#00FFFF
+nws_alerts.js:49 RIESGO ALTO DE CORRIENTES MARINAS EN EFECTO HASTA EL JUEVES::::PRZ002::::false::::undefined
+nws_alerts.js:49 HIGH RIP CURRENT RISK NOW IN EFFECT THROUGH THURSDAY AFTERNOON::::PRZ002::::false::::undefined
+nws_alerts.js:49 RIESGO ALTO DE CORRIENTES MARINAS EN EFECTO HASTA EL JUEVES::::PRZ002::::false::::undefined
+nws_alerts.js:49 HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 6 AM AST THURSDAY::::PRZ002::::false::::undefined
+3nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC131::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC131::::true::::#FFFF00
+2nws_alerts.js:49 HIGH SURF ADVISORY::::PRZ002::::false::::#BA55D3
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC131::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::NEC059::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::NEC059::::true::::undefined
+2nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC127::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC097::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC127::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC127::::true::::#FFFF00
+2nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC127::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC067::::true::::#FFFF00
+2nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC127::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC127::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC127::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC067::::true::::undefined
+nws_alerts.js:49 RIESGO ALTO DE CORRIENTES MARINAS EN EFECTO HASTA EL JUEVES::::PRZ008::::false::::undefined
+nws_alerts.js:49 HIGH RIP CURRENT RISK NOW IN EFFECT THROUGH THURSDAY AFTERNOON::::PRZ008::::false::::undefined
+4nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC127::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC067::::true::::undefined
+nws_alerts.js:49 RIESGO ALTO DE CORRIENTES MARINAS EN EFECTO HASTA EL JUEVES::::PRZ008::::false::::undefined
+nws_alerts.js:49 HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 6 AM AST THURSDAY::::PRZ008::::false::::undefined
+4nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC127::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC067::::true::::undefined
+nws_alerts.js:49 HIGH SURF ADVISORY::::PRZ008::::false::::#BA55D3
+nws_alerts.js:49 TORNADO WATCH::::NEC127::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC127::::true::::undefined
+3nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC067::::true::::undefined
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ094::::false::::#FFE4B5
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC067::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC067::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC067::::true::::undefined
+3nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC097::::true::::undefined
+nws_alerts.js:49 HIGH SURF ADVISORY::::PRZ008::::false::::#BA55D3
+nws_alerts.js:49 RIESGO ALTO DE CORRIENTES MARINAS EN EFECTO HASTA EL JUEVES::::PRZ005::::false::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC097::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC097::::true::::#FFFF00
+7nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC097::::true::::undefined
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH::::NEC169::::true::::#DB7093
+nws_alerts.js:49 SEVERE THUNDERSTORM WATCH OUTLINE UPDATE::::NEC169::::true::::undefined
+nws_alerts.js:49 SEVERE WEATHER STATEMENT::::NEC095::::true::::#00FFFF
+2nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC095::::true::::undefined
+nws_alerts.js:49 HIGH RIP CURRENT RISK NOW IN EFFECT THROUGH THURSDAY AFTERNOON::::PRZ005::::false::::undefined
+nws_alerts.js:49 RIESGO ALTO DE CORRIENTES MARINAS EN EFECTO HASTA EL JUEVES::::PRZ005::::false::::undefined
+nws_alerts.js:49 HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 6 AM AST THURSDAY::::PRZ005::::false::::undefined
+5nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC095::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC095::::true::::#FFFF00
+2nws_alerts.js:49 HIGH SURF ADVISORY::::PRZ005::::false::::#BA55D3
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC095::::true::::undefined
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ045::::false::::#90EE90
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC147::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC147::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC147::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC133::::true::::undefined
+nws_alerts.js:49 RIP CURRENT STATEMENT::::PRZ010::::false::::#40E0D0
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC133::::true::::undefined
+2nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC147::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC147::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC147::::true::::undefined
+2nws_alerts.js:49 RIP CURRENT STATEMENT::::PRZ010::::false::::#40E0D0
+3nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC147::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC147::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH::::NEC133::::true::::#FFFF00
+4nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC147::::true::::undefined
+2nws_alerts.js:49 RIP CURRENT STATEMENT::::VIZ001::::false::::#40E0D0
+4nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC147::::true::::undefined
+nws_alerts.js:49 RIP CURRENT STATEMENT::::VIZ001::::false::::#40E0D0
+nws_alerts.js:49 RIP CURRENT STATEMENT::::VIZ002::::false::::#40E0D0
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC147::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC147::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC147::::true::::undefined
+2nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC133::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC133::::true::::#FFFF00
+5nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC133::::true::::undefined
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ048::::false::::#90EE90
+4nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC133::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC133::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC133::::true::::undefined
+3nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC021::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC021::::true::::#FFFF00
+9nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC021::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC021::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC021::::true::::undefined
+8nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC109::::true::::undefined
+nws_alerts.js:49 TORNADO WATCH::::NEC109::::true::::#FFFF00
+nws_alerts.js:49 TORNADO WATCH OUTLINE UPDATE FOR WT 148::::NEC109::::true::::undefined
+nws_alerts.js:49 A LINE OF STRONG THUNDERSTORMS WILL AFFECT MITCHELL...HOWARD::::MNZ095::::false::::undefined
+2nws_alerts.js:49 FLOOD WARNING::::NVC013::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING::::OHC151::::true::::#00FF00
+nws_alerts.js:49 FLOOD STATMENT::::OHC151::::true::::undefined
+nws_alerts.js:49 FLOOD STATMENT::::TXC449::::true::::undefined
+nws_alerts.js:49 FLOOD STATMENT::::TXC343::::true::::undefined
+3nws_alerts.js:49 FLOOD WARNING::::TXC343::::true::::#00FF00
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MNZ094::::false::::#FFE4B5
+4nws_alerts.js:49 FLOOD WARNING::::TXC067::::true::::#00FF00
+nws_alerts.js:49 FLOOD ADVISORY::::TXC439::::true::::#00FF7F
+nws_alerts.js:49 FLOOD WARNING::::TXC315::::true::::#00FF00
+nws_alerts.js:49 FLOOD ADVISORY::::TXC349::::true::::#00FF7F
+nws_alerts.js:49 FLOOD ADVISORY::::TXC473::::true::::#00FF7F
+nws_alerts.js:49 FLOOD STATEMENT::::WIC037::::true::::#00FF00
+nws_alerts.js:49 A LINE OF STRONG THUNDERSTORMS WILL AFFECT MITCHELL...HOWARD::::MNZ094::::false::::undefined
+2nws_alerts.js:49 FLOOD ADVISORY::::TXC481::::true::::#00FF7F
+nws_alerts.js:49 FLOOD ADVISORY::::TXC427::::true::::#00FF7F
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIC019::::true::::#90EE90
+nws_alerts.js:49 FLOOD ADVISORY::::WIC037::::true::::#00FF7F
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIC011::::true::::#90EE90
+2nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIC121::::true::::#90EE90
+nws_alerts.js:49 THE FLOOD WARNING IS CANCELLED FOR THE YELLOW RIVER AT NECEDAH::::WIC057::::true::::undefined
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ052::::false::::#FFE4B5
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIC057::::true::::#90EE90
+2nws_alerts.js:49 THE FLOOD WARNING CONTINUES FOR THE YELLOW RIVER AT NECEDAH::::WIC057::::true::::undefined
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIC001::::true::::#90EE90
+nws_alerts.js:49 FLOOD STATMENT::::WIC063::::true::::undefined
+2nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIC063::::true::::#90EE90
+2nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIC123::::true::::#90EE90
+3nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIC103::::true::::#90EE90
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ088::::false::::#FFE4B5
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIC023::::true::::#90EE90
+2nws_alerts.js:49 FLOOD WARNING::::VTC013::::true::::#00FF00
+nws_alerts.js:49 FLOOD STATEMENT::::IDC005::::true::::#00FF00
+nws_alerts.js:49 FLOOD STATMENT::::LAC045::::true::::undefined
+nws_alerts.js:49 THE FLOOD WARNING CONTINUES FOR THE FOLLOWING RIVERS IN MAINE::::MEC019::::true::::undefined
+2nws_alerts.js:49 FLOOD WARNING::::PRC023::::true::::#00FF00
+2nws_alerts.js:49 FLOOD STATEMENT::::NVC007::::true::::#00FF00
+2nws_alerts.js:49 FLOOD STATEMENT::::NVC015::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING::::VTC007::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING::::VTC021::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING::::VTC007::::true::::#00FF00
+2nws_alerts.js:49 FLOOD WARNING::::VTC001::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING::::VTC021::::true::::#00FF00
+nws_alerts.js:49 FLASH FLOOD WATCH::::MOZ088::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WARNING::::NYC019::::true::::#00FF00
+nws_alerts.js:49 FLOOD WARNING::::UTC057::::true::::#00FF00
+nws_alerts.js:49 FLASH FLOOD WATCH::::ARZ010::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::ARZ065::::false::::#FFE4B5
+nws_alerts.js:49 FLOOD WATCH::::MOZ094::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ094::::false::::#2E8B57
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ031::::false::::#90EE90
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::WIZ036::::false::::#FFE4B5
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ036::::false::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ038::::false::::#90EE90
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MNZ095::::false::::#FFE4B5
+nws_alerts.js:49 FLASH FLOOD WATCH::::MOZ094::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::MOZ088::::false::::#2E8B57
+2nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ076::::false::::#FFE4B5
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ026::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ114::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ108::::false::::#FFE4B5
+nws_alerts.js:49 FLOOD WATCH::::MOZ104::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::MOZ104::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::WIZ045::::false::::#FFE4B5
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ013::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ020::::false::::#2E8B57
+2nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ051::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ052::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ066::::false::::#FFE4B5
+nws_alerts.js:49 DENSE FOG ADVISORY::::VAZ017::::false::::#708090
+nws_alerts.js:49 DENSE FOG ADVISORY::::VAZ013::::false::::#708090
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ050::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ065::::false::::#FFE4B5
+2nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ066::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ068::::false::::#FFE4B5
+2nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ067::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::IAZ091::::false::::#FFE4B5
+nws_alerts.js:49 ACCUMULATING WET, HEAVY SNOW THURSDAY::::MIZ001::::false::::undefined
+nws_alerts.js:49 FLASH FLOOD WATCH::::KSZ069::::false::::#2E8B57
+2nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ079::::false::::#FFE4B5
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::IDZ027::::false::::#90EE90
+nws_alerts.js:49 DENSE FOG ADVISORY::::VAZ014::::false::::#708090
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ078::::false::::#FFE4B5
+nws_alerts.js:49 FLOOD WATCH::::OKZ069::::false::::#2E8B57
+nws_alerts.js:49 DENSE FOG ADVISORY::::VAZ019::::false::::#708090
+3nws_alerts.js:49 RIP CURRENT STATEMENT::::VIZ001::::false::::#40E0D0
+nws_alerts.js:49 RIP CURRENT STATEMENT::::VIZ002::::false::::#40E0D0
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WAZ032::::false::::#90EE90
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ081::::false::::#FFE4B5
+nws_alerts.js:49 FLASH FLOOD WATCH::::MOZ103::::false::::#2E8B57
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WAZ032::::false::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WAZ033::::false::::#90EE90
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ081::::false::::#FFE4B5
+nws_alerts.js:49 HIGH RIP CURRENT RISK NOW IN EFFECT THROUGH THURSDAY AFTERNOON::::PRZ001::::false::::undefined
+nws_alerts.js:49 RIESGO ALTO DE CORRIENTES MARINAS EN EFECTO HASTA EL JUEVES::::PRZ001::::false::::undefined
+nws_alerts.js:49 HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 6 AM AST THURSDAY::::PRZ001::::false::::undefined
+nws_alerts.js:49 HIGH SURF ADVISORY::::PRZ001::::false::::#BA55D3
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WAZ033::::false::::#90EE90
+nws_alerts.js:49 FLASH FLOOD WATCH::::ARZ001::::false::::#2E8B57
+2nws_alerts.js:49 WIND ADVISORY::::AKZ219::::false::::#D2B48C
+nws_alerts.js:49 FLASH FLOOD WATCH::::KSZ083::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ069::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::MOZ090::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::MOZ090::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::MOZ089::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::MOZ089::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ089::::false::::#FFE4B5
+nws_alerts.js:49 FLOOD WATCH::::MOZ103::::false::::#2E8B57
+nws_alerts.js:49 HIGH SURF ADVISORY::::PRZ001::::false::::#BA55D3
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ107::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ112::::false::::#FFE4B5
+nws_alerts.js:49 FLOOD WATCH::::MOZ093::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::MOZ093::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ093::::false::::#FFE4B5
+nws_alerts.js:49 FLOOD WATCH::::MOZ102::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::MOZ102::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MSZ007::::false::::#FFE4B5
+nws_alerts.js:49 FLOOD WATCH::::OKZ060::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::IAZ080::::false::::#FFE4B5
+nws_alerts.js:49 WIND ADVISORY::::AKZ222::::false::::#D2B48C
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ060::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ012::::false::::#2E8B57
+2nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ080::::false::::#FFE4B5
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::IDZ026::::false::::#90EE90
+nws_alerts.js:49 WIND ADVISORY::::AKZ221::::false::::#D2B48C
+nws_alerts.js:49 FLASH FLOOD WATCH::::KSZ095::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::KSZ096::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::KSZ097::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::KSZ094::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::KSZ092::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::KSZ093::::false::::#2E8B57
+nws_alerts.js:49 DENSE FOG ADVISORY::::WVZ044::::false::::#708090
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::IDZ003::::false::::#90EE90
+nws_alerts.js:49 FLASH FLOOD WATCH::::KSZ099::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::KSZ100::::false::::#2E8B57
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ013::::false::::#90EE90
+nws_alerts.js:49 FLASH FLOOD WATCH::::KSZ101::::false::::#2E8B57
+nws_alerts.js:49 RIESGO ALTO DE CORRIENTES MARINAS EN EFECTO HASTA EL JUEVES::::PRZ001::::false::::undefined
+2nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WAZ037::::false::::#90EE90
+2nws_alerts.js:49 RIP CURRENT STATEMENT::::FLZ173::::false::::#40E0D0
+nws_alerts.js:49 WIND ADVISORY REMAINS IN EFFECT UNTIL 9 AM PDT THURSDAY::::CAZ052::::false::::undefined
+nws_alerts.js:49 NON PRECIPITATION WARNING, WATCH, OR STATEMENT::::CAZ052::::false::::undefined
+2nws_alerts.js:49 WIND ADVISORY::::CAZ053::::false::::#D2B48C
+nws_alerts.js:49 WIND ADVISORY::::CAZ095::::false::::#D2B48C
+nws_alerts.js:49 WIND ADVISORY IN EFFECT FROM 5 AM TO 10 PM PDT THURSDAY::::CAZ095::::false::::undefined
+nws_alerts.js:49 WIND ADVISORY::::CAZ099::::false::::#D2B48C
+nws_alerts.js:49 WIND ADVISORY IN EFFECT FROM 5 AM TO 10 PM PDT THURSDAY::::CAZ099::::false::::undefined
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ019::::false::::#90EE90
+nws_alerts.js:49 WIND ADVISORY IN EFFECT FROM 5 AM TO 10 PM PDT THURSDAY::::CAZ097::::false::::undefined
+nws_alerts.js:49 WIND ADVISORY IN EFFECT FROM 5 AM TO 10 PM PDT THURSDAY::::CAZ098::::false::::undefined
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ096::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ095::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ093::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ097::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ092::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ084::::false::::#2E8B57
+nws_alerts.js:49 THE FLOOD WATCH CONTINUES FOR THE FOLLOWING RIVERS IN IOWA::::IAZ089::::false::::undefined
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ089::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ085::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ082::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ081::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ086::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ083::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ071::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ070::::false::::#2E8B57
+nws_alerts.js:49 A LINE OF STRONG THUNDERSTORMS WILL AFFECT MITCHELL...HOWARD::::IAZ008::::false::::undefined
+nws_alerts.js:49 A LINE OF STRONG THUNDERSTORMS WILL AFFECT MITCHELL...HOWARD::::IAZ009::::false::::undefined
+nws_alerts.js:49 A LINE OF STRONG THUNDERSTORMS WILL AFFECT MITCHELL...HOWARD::::IAZ018::::false::::undefined
+nws_alerts.js:49 A LINE OF STRONG THUNDERSTORMS WILL AFFECT MITCHELL...HOWARD::::IAZ019::::false::::undefined
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::NEZ045::::false::::#FFE4B5
+nws_alerts.js:49 WIND ADVISORY::::AKZ221::::false::::#D2B48C
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ061::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ060::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ062::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ058::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::IAZ069::::false::::#FFE4B5
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ057::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ059::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ075::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::IAZ069::::false::::#FFE4B5
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ074::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ072::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ073::::false::::#2E8B57
+nws_alerts.js:49 THE FLOOD WATCH CONTINUES FOR THE FOLLOWING RIVERS IN IOWA::::IAZ078::::false::::undefined
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ078::::false::::#2E8B57
+6nws_alerts.js:49 FLOOD WATCH::::IAZ078::::false::::#2E8B57
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::IDZ002::::false::::#90EE90
+nws_alerts.js:49 WIND ADVISORY::::AKZ221::::false::::#D2B48C
+3nws_alerts.js:49 FLOOD WATCH::::ILZ009::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::ILZ025::::false::::#2E8B57
+nws_alerts.js:49 THE FLOOD WATCH CONTINUES FOR THE FOLLOWING RIVERS IN IOWA::::ILZ025::::false::::undefined
+2nws_alerts.js:49 FLOOD WATCH::::ILZ015::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ068::::false::::#FFE4B5
+nws_alerts.js:49 FLOOD WATCH::::ILZ025::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::ILZ025::::false::::#2E8B57
+4nws_alerts.js:49 FLOOD WATCH::::ILZ025::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::ILZ024::::false::::#2E8B57
+nws_alerts.js:49 THE FLOOD WATCH CONTINUES FOR THE FOLLOWING RIVERS IN IOWA::::ILZ024::::false::::undefined
+nws_alerts.js:49 WIND ADVISORY::::AKZ221::::false::::#D2B48C
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ109::::false::::#FFE4B5
+nws_alerts.js:49 FLOOD WATCH::::ILZ024::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::ILZ024::::false::::#2E8B57
+2nws_alerts.js:49 FLOOD WATCH::::ILZ016::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::KSZ098::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::LAZ004::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MIZ004::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ110::::false::::#FFE4B5
+nws_alerts.js:49 WIND ADVISORY::::AKZ222::::false::::#D2B48C
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ111::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ100::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ086::::false::::#FFE4B5
+2nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ087::::false::::#FFE4B5
+nws_alerts.js:49 FLOOD WATCH::::MOZ077::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::MOZ077::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ077::::false::::#FFE4B5
+nws_alerts.js:49 FLOOD WATCH::::MOZ095::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::MOZ095::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MSZ040::::false::::#FFE4B5
+nws_alerts.js:49 FLOOD WATCH::::MOZ101::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::MOZ101::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MSZ047::::false::::#FFE4B5
+nws_alerts.js:49 WIND ADVISORY::::AKZ222::::false::::#D2B48C
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MSZ041::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MSZ001::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MSZ034::::false::::#FFE4B5
+3nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MSZ040::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MSZ041::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::NEZ052::::false::::#FFE4B5
+nws_alerts.js:49 FLOOD WATCH::::OKZ058::::false::::#2E8B57
+2nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::NEZ045::::false::::#FFE4B5
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ038::::false::::#90EE90
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::NEZ053::::false::::#FFE4B5
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ008::::false::::#2E8B57
+2nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::NEZ067::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::WIZ035::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::NEZ068::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::NEZ091::::false::::#FFE4B5
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ068::::false::::#2E8B57
+3nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::NEZ034::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::NEZ015::::false::::#FFE4B5
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ058::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::OKZ056::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ056::::false::::#2E8B57
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ035::::false::::#90EE90
+nws_alerts.js:49 FLOOD WATCH::::OKZ055::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::TXZ138::::false::::#FFE4B5
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ055::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::OKZ066::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ066::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::OKZ070::::false::::#2E8B57
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ020::::false::::#90EE90
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ070::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ019::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ018::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::OKZ067::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ067::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::OKZ061::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ061::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::OKZ063::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ063::::false::::#2E8B57
+nws_alerts.js:49 WIND ADVISORY::::AKZ222::::false::::#D2B48C
+nws_alerts.js:49 FLOOD WATCH::::OKZ057::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ057::::false::::#2E8B57
+nws_alerts.js:49 DENSE FOG ADVISORY::::VAZ015::::false::::#708090
+nws_alerts.js:49 HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 6 AM AST THURSDAY::::PRZ005::::false::::undefined
+nws_alerts.js:49 FLOOD WATCH::::OKZ054::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ054::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ007::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::OKZ064::::false::::#2E8B57
+2nws_alerts.js:49 HIGH SURF ADVISORY::::PRZ005::::false::::#BA55D3
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ064::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::OKZ068::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ024::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ025::::false::::#2E8B57
+3nws_alerts.js:49 RIP CURRENT STATEMENT::::PRZ013::::false::::#40E0D0
+nws_alerts.js:49 FLOOD WATCH::::OKZ065::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ065::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ030::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ031::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::OKZ062::::false::::#2E8B57
+nws_alerts.js:49 RIP CURRENT STATEMENT::::PRZ013::::false::::#40E0D0
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ062::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::OKZ059::::false::::#2E8B57
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ021::::false::::#90EE90
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ059::::false::::#2E8B57
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ005::::false::::#90EE90
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ029::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ027::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ028::::false::::#2E8B57
+nws_alerts.js:49 RIP CURRENT STATEMENT::::PRZ010::::false::::#40E0D0
+nws_alerts.js:49 RIP CURRENT STATEMENT::::PRZ012::::false::::#40E0D0
+nws_alerts.js:49 RIESGO ALTO DE CORRIENTES MARINAS EN EFECTO HASTA EL JUEVES::::PRZ005::::false::::undefined
+nws_alerts.js:49 HIGH RIP CURRENT RISK NOW IN EFFECT THROUGH THURSDAY AFTERNOON::::PRZ005::::false::::undefined
+nws_alerts.js:49 RIESGO ALTO DE CORRIENTES MARINAS EN EFECTO HASTA EL JUEVES::::PRZ005::::false::::undefined
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::TXZ151::::false::::#FFE4B5
+nws_alerts.js:49 DENSE FOG ADVISORY::::VAZ012::::false::::#708090
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ039::::false::::#90EE90
+nws_alerts.js:49 DENSE FOG ADVISORY::::VAZ010::::false::::#708090
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ040::::false::::#90EE90
+3nws_alerts.js:49 RIP CURRENT STATEMENT::::PRZ013::::false::::#40E0D0
+nws_alerts.js:49 A LINE OF STRONG THUNDERSTORMS WILL AFFECT MITCHELL...HOWARD::::IAZ008::::false::::undefined
+nws_alerts.js:49 DENSE FOG ADVISORY::::VAZ011::::false::::#708090
+nws_alerts.js:49 DENSE FOG ADVISORY::::VAZ018::::false::::#708090
+nws_alerts.js:49 DENSE FOG ADVISORY::::VAZ020::::false::::#708090
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ011::::false::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ012::::false::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ010::::false::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ018::::false::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ019::::false::::#90EE90
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::WIZ030::::false::::#FFE4B5
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ030::::false::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ050::::false::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ049::::false::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ037::::false::::#90EE90
+nws_alerts.js:49 DENSE FOG ADVISORY::::WVZ042::::false::::#708090
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ074::::false::::#90EE90
+nws_alerts.js:49 WIND ADVISORY REMAINS IN EFFECT UNTIL 9 AM PDT THURSDAY::::CAZ039::::false::::undefined
+nws_alerts.js:49 NON PRECIPITATION WARNING, WATCH, OR STATEMENT::::CAZ039::::false::::undefined
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::IDZ001::::false::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WAZ031::::false::::#90EE90
+nws_alerts.js:49 RIP CURRENT STATEMENT::::FLZ168::::false::::#40E0D0
+nws_alerts.js:49 WIND ADVISORY REMAINS IN EFFECT UNTIL 10 AM AKDT THURSDAY::::AKZ216::::false::::undefined
+2nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WAZ043::::false::::#90EE90
+nws_alerts.js:49 WIND ADVISORY::::CAZ054::::false::::#D2B48C
+nws_alerts.js:49 RIP CURRENT STATEMENT::::FLZ168::::false::::#40E0D0
+nws_alerts.js:49 DENSE FOG ADVISORY::::VAZ016::::false::::#708090
+nws_alerts.js:49 WIND ADVISORY::::CAZ054::::false::::#D2B48C
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::IDZ004::::false::::#90EE90
+nws_alerts.js:49 A LINE OF STRONG THUNDERSTORMS WILL AFFECT MITCHELL...HOWARD::::IAZ009::::false::::undefined
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MIZ005::::false::::#FFE4B5
+nws_alerts.js:49 RIESGO ALTO DE CORRIENTES MARINAS EN EFECTO HASTA EL JUEVES::::PRZ008::::false::::undefined
+nws_alerts.js:49 HIGH RIP CURRENT RISK NOW IN EFFECT THROUGH THURSDAY AFTERNOON::::PRZ008::::false::::undefined
+nws_alerts.js:49 RIESGO ALTO DE CORRIENTES MARINAS EN EFECTO HASTA EL JUEVES::::PRZ008::::false::::undefined
+nws_alerts.js:49 HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 6 AM AST THURSDAY::::PRZ008::::false::::undefined
+2nws_alerts.js:49 HIGH SURF ADVISORY::::PRZ008::::false::::#BA55D3
+nws_alerts.js:49 RIESGO ALTO DE CORRIENTES MARINAS EN EFECTO HASTA EL JUEVES::::PRZ002::::false::::undefined
+nws_alerts.js:49 HIGH RIP CURRENT RISK NOW IN EFFECT THROUGH THURSDAY AFTERNOON::::PRZ002::::false::::undefined
+nws_alerts.js:49 RIESGO ALTO DE CORRIENTES MARINAS EN EFECTO HASTA EL JUEVES::::PRZ002::::false::::undefined
+nws_alerts.js:49 HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 6 AM AST THURSDAY::::PRZ002::::false::::undefined
+2nws_alerts.js:49 HIGH SURF ADVISORY::::PRZ002::::false::::#BA55D3
+2nws_alerts.js:49 RIP CURRENT STATEMENT::::PRZ010::::false::::#40E0D0
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WAZ031::::false::::#90EE90
+2nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WAZ034::::false::::#90EE90
+nws_alerts.js:49 WIND ADVISORY::::AKZ222::::false::::#D2B48C
+2nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WAZ035::::false::::#90EE90
+2nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WAZ044::::false::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WAZ036::::false::::#90EE90
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ745::::false::::#D8BFD8
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WAZ036::::false::::#90EE90
+2nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WAZ041::::false::::#90EE90
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MIZ003::::false::::#FFE4B5
+nws_alerts.js:49 WINTER STORM WATCH::::WYZ002::::false::::#4682B4
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WAZ042::::false::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WAZ038::::false::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WAZ042::::false::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WAZ038::::false::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ022::::false::::#90EE90
+nws_alerts.js:49 FLOOD WATCH::::MOZ094::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::MOZ094::::false::::#2E8B57
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ073::::false::::#90EE90
+nws_alerts.js:49 ACCUMULATING WET, HEAVY SNOW THURSDAY::::MIZ003::::false::::undefined
+2nws_alerts.js:49 WIND ADVISORY::::AKZ220::::false::::#D2B48C
+nws_alerts.js:49 WIND ADVISORY::::AKZ221::::false::::#D2B48C
+nws_alerts.js:49 RIP CURRENT STATEMENT::::FLZ172::::false::::#40E0D0
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MSZ041::::false::::#FFE4B5
+nws_alerts.js:49 RIP CURRENT STATEMENT::::FLZ172::::false::::#40E0D0
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ094::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::ARZ065::::false::::#FFE4B5
+nws_alerts.js:49 FLASH FLOOD WATCH::::ARZ002::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ070::::false::::#2E8B57
+nws_alerts.js:49 ACCUMULATING WET, HEAVY SNOW THURSDAY::::MIZ001::::false::::undefined
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MIZ005::::false::::#FFE4B5
+nws_alerts.js:49 FLASH FLOOD WATCH::::ARZ010::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ094::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::MOZ093::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ096::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ095::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ097::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ060::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::MOZ093::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ093::::false::::#FFE4B5
+nws_alerts.js:49 FLASH FLOOD WATCH::::KSZ093::::false::::#2E8B57
+2nws_alerts.js:49 FLOOD WATCH::::ILZ015::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::OKZ063::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ063::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ110::::false::::#FFE4B5
+nws_alerts.js:49 FLOOD WATCH::::OKZ062::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ062::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ111::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ087::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MSZ041::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ087::::false::::#FFE4B5
+nws_alerts.js:49 FLOOD WATCH::::MOZ103::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::MOZ103::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::MOZ102::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::MOZ102::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::NEZ045::::false::::#FFE4B5
+2nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ076::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ112::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ114::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ108::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MSZ007::::false::::#FFE4B5
+2nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::NEZ045::::false::::#FFE4B5
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ012::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::TXZ151::::false::::#FFE4B5
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ018::::false::::#90EE90
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::WIZ045::::false::::#FFE4B5
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ013::::false::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ074::::false::::#90EE90
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ067::::false::::#FFE4B5
+nws_alerts.js:49 DENSE FOG ADVISORY::::VAZ013::::false::::#708090
+nws_alerts.js:49 DENSE FOG ADVISORY::::VAZ019::::false::::#708090
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ081::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ066::::false::::#FFE4B5
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ073::::false::::#90EE90
+nws_alerts.js:49 FLASH FLOOD WATCH::::ARZ011::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ065::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ066::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ067::::false::::#FFE4B5
+nws_alerts.js:49 FLASH FLOOD WATCH::::KSZ069::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ079::::false::::#FFE4B5
+nws_alerts.js:49 FIRE WEATHER WATCH::::NMZ106::::false::::#FFDEAD
+nws_alerts.js:49 WIND ADVISORY::::AKZ219::::false::::#D2B48C
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ081::::false::::#FFE4B5
+nws_alerts.js:49 WIND ADVISORY::::AKZ219::::false::::#D2B48C
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ079::::false::::#FFE4B5
+2nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::IAZ069::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ078::::false::::#FFE4B5
+nws_alerts.js:49 FLASH FLOOD WATCH::::KSZ083::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ081::::false::::#FFE4B5
+2nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ080::::false::::#FFE4B5
+nws_alerts.js:49 FLASH FLOOD WATCH::::KSZ095::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::ARZ001::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::KSZ096::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::KSZ097::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::KSZ094::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::KSZ092::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ085::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::KSZ099::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::KSZ100::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::KSZ101::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::MOZ095::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::MOZ095::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ026::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::OKZ057::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ057::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::OKZ054::::false::::#2E8B57
+nws_alerts.js:49 WIND ADVISORY::::AKZ220::::false::::#D2B48C
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ054::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ025::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::OKZ060::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ060::::false::::#2E8B57
+nws_alerts.js:49 DENSE FOG ADVISORY::::VAZ014::::false::::#708090
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ011::::false::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ049::::false::::#90EE90
+nws_alerts.js:49 FLOOD WATCH::::OKZ068::::false::::#2E8B57
+nws_alerts.js:49 DENSE FOG ADVISORY::::WVZ044::::false::::#708090
+nws_alerts.js:49 RED FLAG WARNING::::COZ207::::false::::#FF1493
+2nws_alerts.js:49 FIRE WEATHER WATCH::::COZ207::::false::::#FFDEAD
+4nws_alerts.js:49 WIND ADVISORY::::AKZ221::::false::::#D2B48C
+nws_alerts.js:49 FIRE WEATHER WATCH::::COZ203::::false::::#FFDEAD
+nws_alerts.js:49 WIND ADVISORY::::AKZ221::::false::::#D2B48C
+nws_alerts.js:49 WIND ADVISORY::::AKZ222::::false::::#D2B48C
+nws_alerts.js:49 FIRE WEATHER WATCH::::COZ203::::false::::#FFDEAD
+2nws_alerts.js:49 WIND ADVISORY::::AKZ222::::false::::#D2B48C
+nws_alerts.js:49 FIRE WEATHER WATCH::::COZ203::::false::::#FFDEAD
+nws_alerts.js:49 WIND ADVISORY::::AKZ220::::false::::#D2B48C
+nws_alerts.js:49 WIND ADVISORY REMAINS IN EFFECT UNTIL 10 AM AKDT THURSDAY::::AKZ216::::false::::undefined
+nws_alerts.js:49 FIRE WEATHER WATCH::::NMZ105::::false::::#FFDEAD
+nws_alerts.js:49 FIRE WEATHER WATCH::::NMZ101::::false::::#FFDEAD
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ071::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::IAZ080::::false::::#FFE4B5
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ093::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ092::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::IAZ091::::false::::#FFE4B5
+nws_alerts.js:49 A LINE OF STRONG THUNDERSTORMS WILL AFFECT MITCHELL...HOWARD::::IAZ019::::false::::undefined
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ084::::false::::#2E8B57
+nws_alerts.js:49 THE FLOOD WATCH CONTINUES FOR THE FOLLOWING RIVERS IN IOWA::::IAZ089::::false::::undefined
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ089::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ082::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ081::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ086::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ083::::false::::#2E8B57
+nws_alerts.js:49 A LINE OF STRONG THUNDERSTORMS WILL AFFECT MITCHELL...HOWARD::::IAZ018::::false::::undefined
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ073::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ061::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ062::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ058::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ057::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ059::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ075::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ074::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ072::::false::::#2E8B57
+nws_alerts.js:49 THE FLOOD WATCH CONTINUES FOR THE FOLLOWING RIVERS IN IOWA::::IAZ078::::false::::undefined
+nws_alerts.js:49 FLASH FLOOD WATCH::::IAZ078::::false::::#2E8B57
+6nws_alerts.js:49 FLOOD WATCH::::IAZ078::::false::::#2E8B57
+3nws_alerts.js:49 FLOOD WATCH::::ILZ009::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::ILZ025::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ051::::false::::#FFE4B5
+nws_alerts.js:49 THE FLOOD WATCH CONTINUES FOR THE FOLLOWING RIVERS IN IOWA::::ILZ025::::false::::undefined
+nws_alerts.js:49 FLOOD WATCH::::ILZ025::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::ILZ025::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::ILZ025::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ051::::false::::#FFE4B5
+3nws_alerts.js:49 FLOOD WATCH::::ILZ025::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::ILZ024::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MNZ094::::false::::#FFE4B5
+nws_alerts.js:49 THE FLOOD WATCH CONTINUES FOR THE FOLLOWING RIVERS IN IOWA::::ILZ024::::false::::undefined
+nws_alerts.js:49 FLOOD WATCH::::ILZ024::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::ILZ024::::false::::#2E8B57
+2nws_alerts.js:49 FLOOD WATCH::::ILZ016::::false::::#2E8B57
+2nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ052::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::KSZ050::::false::::#FFE4B5
+nws_alerts.js:49 FLASH FLOOD WATCH::::KSZ098::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::LAZ004::::false::::#FFE4B5
+nws_alerts.js:49 FLOOD WATCH::::MOZ090::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::MOZ090::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::MOZ089::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::MOZ089::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ089::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ086::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MIZ004::::false::::#FFE4B5
+nws_alerts.js:49 FLOOD WATCH::::MOZ077::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::MOZ077::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ077::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MNZ095::::false::::#FFE4B5
+nws_alerts.js:49 A LINE OF STRONG THUNDERSTORMS WILL AFFECT MITCHELL...HOWARD::::MNZ095::::false::::undefined
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ019::::false::::#2E8B57
+nws_alerts.js:49 A LINE OF STRONG THUNDERSTORMS WILL AFFECT MITCHELL...HOWARD::::MNZ094::::false::::undefined
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ100::::false::::#FFE4B5
+nws_alerts.js:49 FLOOD WATCH::::MOZ088::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::MOZ088::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ088::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ107::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MOZ109::::false::::#FFE4B5
+nws_alerts.js:49 FLOOD WATCH::::MOZ104::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::MOZ104::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::MOZ101::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::MOZ101::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MSZ001::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MSZ047::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MSZ034::::false::::#FFE4B5
+4nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MSZ040::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::NEZ052::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::NEZ053::::false::::#FFE4B5
+2nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::NEZ067::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::NEZ068::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::NEZ091::::false::::#FFE4B5
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ061::::false::::#2E8B57
+3nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::NEZ034::::false::::#FFE4B5
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::NEZ015::::false::::#FFE4B5
+nws_alerts.js:49 FLOOD WATCH::::OKZ066::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ066::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::OKZ069::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ069::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ007::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::OKZ064::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ064::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::OKZ070::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ070::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ018::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::OKZ067::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ067::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::OKZ061::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ013::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::OKZ058::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ058::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::OKZ056::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::OKZ059::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ056::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::OKZ055::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ055::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ008::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ024::::false::::#2E8B57
+nws_alerts.js:49 FLOOD WATCH::::OKZ065::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ065::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ030::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ031::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ020::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ059::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ029::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ027::::false::::#2E8B57
+nws_alerts.js:49 FLASH FLOOD WATCH::::OKZ028::::false::::#2E8B57
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::WIZ035::::false::::#FFE4B5
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ035::::false::::#90EE90
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::WIZ036::::false::::#FFE4B5
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ036::::false::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ005::::false::::#90EE90
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::TXZ138::::false::::#FFE4B5
+nws_alerts.js:49 DENSE FOG ADVISORY::::VAZ015::::false::::#708090
+nws_alerts.js:49 DENSE FOG ADVISORY::::VAZ012::::false::::#708090
+nws_alerts.js:49 DENSE FOG ADVISORY::::VAZ017::::false::::#708090
+nws_alerts.js:49 DENSE FOG ADVISORY::::VAZ010::::false::::#708090
+nws_alerts.js:49 DENSE FOG ADVISORY::::VAZ011::::false::::#708090
+nws_alerts.js:49 DENSE FOG ADVISORY::::VAZ018::::false::::#708090
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ039::::false::::#90EE90
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::WIZ030::::false::::#FFE4B5
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ040::::false::::#90EE90
+nws_alerts.js:49 DENSE FOG ADVISORY::::VAZ020::::false::::#708090
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ012::::false::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ010::::false::::#90EE90
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ745::::false::::#D8BFD8
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ050::::false::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ048::::false::::#90EE90
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ037::::false::::#90EE90
+nws_alerts.js:49 DENSE FOG ADVISORY::::WVZ042::::false::::#708090
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ021::::false::::#90EE90
+nws_alerts.js:49 DENSE FOG ADVISORY::::VAZ016::::false::::#708090
+nws_alerts.js:49 RIP CURRENT STATEMENT::::PRZ012::::false::::#40E0D0
+7nws_alerts.js:49 RIP CURRENT STATEMENT::::PRZ013::::false::::#40E0D0
+nws_alerts.js:49 ACCUMULATING WET, HEAVY SNOW THURSDAY::::MIZ003::::false::::undefined
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ744::::false::::#D8BFD8
+nws_alerts.js:49 HYDROLOGIC OUTLOOK::::WIZ022::::false::::#90EE90
+nws_alerts.js:49 RIESGO ALTO DE CORRIENTES MARINAS EN EFECTO HASTA EL JUEVES::::PRZ001::::false::::undefined
+nws_alerts.js:49 HIGH RIP CURRENT RISK NOW IN EFFECT THROUGH THURSDAY AFTERNOON::::PRZ001::::false::::undefined
+nws_alerts.js:49 RIESGO ALTO DE CORRIENTES MARINAS EN EFECTO HASTA EL JUEVES::::PRZ001::::false::::undefined
+nws_alerts.js:49 HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 6 AM AST THURSDAY::::PRZ001::::false::::undefined
+2nws_alerts.js:49 HIGH SURF ADVISORY::::PRZ001::::false::::#BA55D3
+nws_alerts.js:49 SPECIAL WEATHER STATEMENT::::MIZ003::::false::::#FFE4B5
+2nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ121::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ322::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LSZ145::::false::::#DDA0DD
+2nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ742::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ145::::false::::#D8BFD8
+2nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ742::::false::::#D8BFD8
+nws_alerts.js:49 GALE WATCH::::LSZ145::::false::::#FFC0CB
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ742::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ743::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ145::::false::::#D8BFD8
+2nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ743::::false::::#D8BFD8
+nws_alerts.js:49 GALE WATCH::::LSZ145::::false::::#FFC0CB
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ743::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ744::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ145::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ321::::false::::#D8BFD8
+2nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ744::::false::::#D8BFD8
+nws_alerts.js:49 MARINE WEATHER STATEMENT::::LEZ143::::false::::#FFDAB9
+nws_alerts.js:49 MARINE WEATHER STATEMENT::::LEZ147::::false::::#FFDAB9
+nws_alerts.js:49 MARINE WEATHER STATEMENT::::LEZ167::::false::::#FFDAB9
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ140::::false::::#D8BFD8
+nws_alerts.js:49 MARINE WEATHER STATEMENT::::LEZ144::::false::::#FFDAB9
+nws_alerts.js:49 MARINE WEATHER STATEMENT::::LEZ146::::false::::#FFDAB9
+2nws_alerts.js:49 SMALL CRAFT ADVISORY::::ANZ152::::false::::#D8BFD8
+nws_alerts.js:49 GALE WATCH::::LSZ140::::false::::#FFC0CB
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ140::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::ANZ152::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::ANZ051::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ141::::false::::#D8BFD8
+nws_alerts.js:49 GALE WATCH::::LSZ141::::false::::#FFC0CB
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ141::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::ANZ052::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ745::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ170::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LSZ143::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ143::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ745::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ143::::false::::#D8BFD8
+nws_alerts.js:49 GALE WATCH::::LSZ143::::false::::#FFC0CB
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LHZ443::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY FOR HAZARDOUS SEAS::::PZZ376::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LHZ443::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::GMZ074::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LHZ443::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LSZ142::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LHZ443::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ450::::false::::#D8BFD8
+nws_alerts.js:49 MARINE WEATHER STATEMENT::::PZZ450::::false::::#FFDAB9
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PSZ150::::false::::#D8BFD8
+4nws_alerts.js:49 SMALL CRAFT ADVISORY::::ANZ151::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::ANZ152::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::ANZ153::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ142::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::ANZ153::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ142::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::ANZ153::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LSZ144::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::ANZ153::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ144::::false::::#D8BFD8
+4nws_alerts.js:49 SMALL CRAFT ADVISORY::::ANZ154::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LSZ244::::false::::#DDA0DD
+nws_alerts.js:49 GALE WATCH::::LSZ144::::false::::#FFC0CB
+nws_alerts.js:49 GALE WARNING::::LSZ244::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ144::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LSZ245::::false::::#DDA0DD
+nws_alerts.js:49 GALE WATCH::::LSZ144::::false::::#FFC0CB
+nws_alerts.js:49 GALE WARNING::::LSZ245::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ144::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LSZ246::::false::::#DDA0DD
+nws_alerts.js:49 GALE WARNING::::LSZ247::::false::::#DDA0DD
+nws_alerts.js:49 GALE WARNING::::LSZ246::::false::::#DDA0DD
+nws_alerts.js:49 GALE WARNING::::LSZ247::::false::::#DDA0DD
+nws_alerts.js:49 GALE WARNING::::LSZ246::::false::::#DDA0DD
+nws_alerts.js:49 GALE WARNING::::LSZ247::::false::::#DDA0DD
+nws_alerts.js:49 GALE WARNING::::LSZ246::::false::::#DDA0DD
+nws_alerts.js:49 GALE WARNING::::LSZ247::::false::::#DDA0DD
+nws_alerts.js:49 GALE WARNING::::LSZ146::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ146::::false::::#D8BFD8
+nws_alerts.js:49 GALE WATCH::::LSZ146::::false::::#FFC0CB
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ146::::false::::#D8BFD8
+nws_alerts.js:49 GALE WATCH::::LSZ146::::false::::#FFC0CB
+nws_alerts.js:49 MARINE WEATHER STATEMENT::::LEZ444::::false::::#FFDAB9
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ148::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LSZ147::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LHZ421::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ147::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LHZ421::::false::::#D8BFD8
+nws_alerts.js:49 GALE WATCH::::LSZ147::::false::::#FFC0CB
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LHZ421::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ147::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LHZ421::::false::::#D8BFD8
+nws_alerts.js:49 GALE WATCH::::LSZ147::::false::::#FFC0CB
+4nws_alerts.js:49 GALE WARNING::::LSZ162::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ475::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ241::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ475::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ241::::false::::#D8BFD8
+3nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ542::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ241::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LMZ521::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ242::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LMZ521::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ242::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LMZ521::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ242::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LMZ521::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ241::::false::::#D8BFD8
+3nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ522::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LMZ541::::false::::#DDA0DD
+nws_alerts.js:49 MARINE WEATHER STATEMENT::::LEZ145::::false::::#FFDAB9
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PKZ022::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LMZ541::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ148::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LMZ541::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LHZ441::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LMZ541::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LHZ441::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ242::::false::::#D8BFD8
+4nws_alerts.js:49 GALE WARNING::::LMZ221::::false::::#DDA0DD
+nws_alerts.js:49 MARINE WEATHER STATEMENT::::ANZ632::::false::::#FFDAB9
+nws_alerts.js:49 GALE WARNING::::LMZ248::::false::::#DDA0DD
+nws_alerts.js:49 GALE WARNING::::LHZ345::::false::::#DDA0DD
+nws_alerts.js:49 GALE WARNING::::LHZ346::::false::::#DDA0DD
+nws_alerts.js:49 GALE WARNING::::LMZ248::::false::::#DDA0DD
+nws_alerts.js:49 MARINE WEATHER STATEMENT::::LEZ162::::false::::#FFDAB9
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LHZ441::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LMZ248::::false::::#DDA0DD
+nws_alerts.js:49 MARINE WEATHER STATEMENT::::ANZ654::::false::::#FFDAB9
+nws_alerts.js:49 GALE WARNING::::LMZ248::::false::::#DDA0DD
+nws_alerts.js:49 MARINE WEATHER STATEMENT::::LEZ163::::false::::#FFDAB9
+nws_alerts.js:49 GALE WARNING::::LMZ248::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LHZ349::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ243::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ344::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ243::::false::::#D8BFD8
+nws_alerts.js:49 MARINE WEATHER STATEMENT::::LEZ166::::false::::#FFDAB9
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LHZ441::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ243::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY FOR HAZARDOUS SEAS::::ANZ254::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LSZ243::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PKZ120::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ173::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PKZ132::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PKZ138::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PKZ150::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PKZ175::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PKZ176::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LHZ347::::false::::#DDA0DD
+nws_alerts.js:49 MARINE WEATHER STATEMENT::::LEZ164::::false::::#FFDAB9
+nws_alerts.js:49 GALE WARNING::::LHZ348::::false::::#DDA0DD
+2nws_alerts.js:49 GALE WARNING::::LHZ362::::false::::#DDA0DD
+3nws_alerts.js:49 GALE WATCH::::LHZ362::::false::::#FFC0CB
+nws_alerts.js:49 MARINE WEATHER STATEMENT::::LEZ165::::false::::#FFDAB9
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LHZ442::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LHZ361::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LHZ442::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LHZ361::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LHZ442::::false::::#D8BFD8
+nws_alerts.js:49 GALE WATCH::::LHZ361::::false::::#FFC0CB
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LHZ442::::false::::#D8BFD8
+nws_alerts.js:49 GALE WATCH::::LHZ361::::false::::#FFC0CB
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ543::::false::::#D8BFD8
+nws_alerts.js:49 GALE WATCH::::LHZ361::::false::::#FFC0CB
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::ANZ150::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ323::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::ANZ150::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LMZ341::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::ANZ150::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LMZ342::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ345::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LOZ042::::false::::#D8BFD8
+6nws_alerts.js:49 SMALL CRAFT ADVISORY::::ANZ250::::false::::#D8BFD8
+4nws_alerts.js:49 SMALL CRAFT ADVISORY FOR HAZARDOUS SEAS::::ANZ254::::false::::#D8BFD8
+5nws_alerts.js:49 SMALL CRAFT ADVISORY FOR HAZARDOUS SEAS::::ANZ255::::false::::#D8BFD8
+2nws_alerts.js:49 SMALL CRAFT ADVISORY::::LOZ042::::false::::#D8BFD8
+3nws_alerts.js:49 SMALL CRAFT ADVISORY::::LOZ043::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::ANZ050::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ470::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::ANZ150::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ470::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::GMZ073::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ470::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::GMZ073::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ470::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::GMZ033::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ470::::false::::#D8BFD8
+2nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ543::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::GMZ052::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::GMZ053::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::GMZ052::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::GMZ053::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::GMZ054::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::GMZ072::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::GMZ054::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::GMZ072::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::GMZ074::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::GMZ075::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ535::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::GMZ075::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::PZZ676::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ741::::false::::#D8BFD8
+2nws_alerts.js:49 GALE WARNING::::PZZ676::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ741::::false::::#D8BFD8
+nws_alerts.js:49 GALE WATCH::::PZZ676::::false::::#FFC0CB
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ676::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ741::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::PZZ676::::false::::#DDA0DD
+nws_alerts.js:49 GALE WATCH::::PZZ676::::false::::#FFC0CB
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ741::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ676::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ740::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ646::::false::::#D8BFD8
+2nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ740::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ646::::false::::#D8BFD8
+2nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ740::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ741::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ650::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ643::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ650::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ643::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ650::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ643::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ650::::false::::#D8BFD8
+4nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ655::::false::::#D8BFD8
+nws_alerts.js:49 HAZARDOUS SEAS WARNING::::PZZ350::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ646::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ670::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ643::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ670::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ644::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ670::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ644::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ670::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ643::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::PZZ673::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ644::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::PZZ673::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ644::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::PZZ673::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ645::::false::::#D8BFD8
+nws_alerts.js:49 GALE WATCH::::PZZ673::::false::::#FFC0CB
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ645::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ673::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ645::::false::::#D8BFD8
+nws_alerts.js:49 GALE WATCH::::PZZ673::::false::::#FFC0CB
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ645::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ673::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ646::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::PZZ673::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::LMZ644::::false::::#D8BFD8
+nws_alerts.js:49 MARINE WEATHER STATEMENT::::AMZ670::::false::::#FFDAB9
+nws_alerts.js:49 GALE WARNING::::LSZ248::::false::::#DDA0DD
+nws_alerts.js:49 HAZARDOUS SEAS WARNING::::PZZ370::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LSZ248::::false::::#DDA0DD
+nws_alerts.js:49 HAZARDOUS SEAS WARNING::::PZZ370::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LSZ248::::false::::#DDA0DD
+nws_alerts.js:49 MARINE WEATHER STATEMENT::::AMZ671::::false::::#FFDAB9
+nws_alerts.js:49 SMALL CRAFT ADVISORY FOR HAZARDOUS SEAS::::PZZ356::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LSZ248::::false::::#DDA0DD
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ565::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY FOR WINDS::::PZZ250::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY FOR WINDS::::PZZ255::::false::::#D8BFD8
+nws_alerts.js:49 GALE WARNING::::LSZ263::::false::::#DDA0DD
+2nws_alerts.js:49 SMALL CRAFT ADVISORY FOR WINDS::::PZZ255::::false::::#D8BFD8
+3nws_alerts.js:49 GALE WARNING::::LSZ263::::false::::#DDA0DD
+4nws_alerts.js:49 GALE WARNING::::LSZ264::::false::::#DDA0DD
+3nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ540::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ545::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ560::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ570::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ775::::false::::#D8BFD8
+4nws_alerts.js:49 SMALL CRAFT ADVISORY::::AMZ710::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ570::::false::::#D8BFD8
+7nws_alerts.js:49 SMALL CRAFT ADVISORY::::AMZ710::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PSZ151::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PSZ152::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ570::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ575::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ132::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY FOR WINDS::::PZZ275::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ176::::false::::#D8BFD8
+6nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ133::::false::::#D8BFD8
+6nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ132::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ133::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ134::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ156::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ134::::false::::#D8BFD8
+2nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ135::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ150::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ153::::false::::#D8BFD8
+nws_alerts.js:49 SMALL CRAFT ADVISORY::::PZZ156::::false::::#D8BFD8
+nws_alerts.js:61 warnings
+nws_alerts.js:62 ["TORNADO WATCH", "TORNADO WATCH", "TORNADO WATCH", "TORNADO WATCH", "TORNADO WATCH", "TORNADO WATCH", "TORNADO WATCH", "FLOOD WARNING", "TORNADO WATCH", "SEVERE THUNDERSTORM WATCH", "TORNADO WATCH", "FLOOD WARNING", "TORNADO WATCH", "FLOOD WARNING", "SEVERE THUNDERSTORM WATCH", "FLOOD WARNING", "SEVERE THUNDERSTORM WATCH", "FLOOD WARNING", "FLOOD WARNING", "FLOOD WARNING", "FLOOD WARNING", "SEVERE THUNDERSTORM WATCH", "SEVERE THUNDERSTORM WATCH", "SEVERE THUNDERSTORM WATCH", "SEVERE THUNDERSTORM WATCH", "FLOOD ADVISORY", "SEVERE THUNDERSTORM WATCH", "FLOOD WARNING", "FLOOD WARNING", "FLOOD WARNING", "FLOOD WARNING", "FLOOD WARNING", "FLOOD WARNING", "FLOOD WARNING", "FLOOD WARNING", "FLOOD WARNING", "FLOOD WARNING", "FLOOD WARNING", "FLOOD WARNING", "FLOOD WARNING", "FLOOD WARNING", "FLOOD WARNING", "FLOOD WARNING", "FLOOD WARNING", "FLOOD WARNING", "SEVERE WEATHER STATEMENT", "FLOOD WARNING", "FLOOD WARNING", "FLOOD WARNING", "FLOOD WARNING", "FLOOD WARNING", "FLOOD WARNING", "TORNADO WATCH", "SEVERE THUNDERSTORM WATCH", "SEVERE THUNDERSTORM WATCH", "SEVERE THUNDERSTORM WATCH", "SEVERE WEATHER STATEMENT", "SEVERE THUNDERSTORM WATCH", "SEVERE THUNDERSTORM WATCH", "SEVER

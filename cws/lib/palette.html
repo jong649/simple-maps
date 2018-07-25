@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+<HEAD>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script src="lib/QueryData.js" type="text/javascript"></script>
+
+<script src="lib/raphael.js" type="text/javascript" charset="utf-8"></script>
+<script src="lib/jquery-1.11.3.js" type="text/javascript" charset="utf-8"></script>
+<link rel="stylesheet" href="lib/palette.css" type="text/css" media="screen">
+<link rel="stylesheet" href="lib/palette-print.css" type="text/css" media="print">
+<SCRIPT type="text/javascript" charset="utf-8">
+
+var queryString = new QueryData();
+var WX=800;
+var HX=480;
+
+function getPage () {
+  var paletteName = "mean.cpt";
+   if('pall' in queryString){
+	paletteName = queryString.pall;
+   }
+
+        $.ajax({url: "xmlProxy.php?client=alex&client_password=trust_me&product=palette&palette.name="+paletteName+"&format=json", success: function(result){
+		console.log(result);
+    		var palette = eval('(' + result + ')');
+    		var psize = palette.ColorPalette.size;
+    		var hues=new Array();
+    		var levels=new Array();
+    		for(i=0; i<  psize; i++){
+      			hues[i]= palette.ColorPalette.table[i].lower.H;
+      			levels[i]= palette.ColorPalette.table[i].lower.level;	
+			console.log(i + ") " + levels[i] + "-=>" +  hues[i]);
+    		}
+    		drawCells(hues, levels, psize);
+        }});
+}
+Raphael.fn.cell = function (x, y, w, h, hue, stroke) {
+  hue = hue || 0;
+  if(!stroke){ // do not draw outline
+   return this.set(this.rect(x, y, w, h, 0).attr({fill : "hsb(" + hue+", 1.0, 1.0)", stroke: "hsb(" + hue+", 1.0, 1.0)", opacity: 1}));
+  }else{
+   return this.set(this.rect(x, y, w, h, 0).attr({fill : "hsb(" + hue+", 1.0, 1.0)", opacity: 1 }));
+  }
+};
+function drawCells(colors, levels, size){
+  var radius=10;
+  var inrow=30;
+  var R = Raphael("palette"), x = radius, y = radius, r =radius
+  var wper = WX/size;   // width per item
+  var posx = 0;
+  var incr = parseInt(30/wper)+1;
+  for(i=0; i<size; i++){
+    if(i%incr==0) R.text(posx+6, y+r*2+10, formatZ(levels[i]));
+    R.cell(posx, y, wper, r*2, colors[i], (wper>10 ? true : false));
+    posx+=wper;
+  }
+}
+
+function formatZ(numS){
+  num = parseFloat(numS);
+  if(num=="NaN") return "*";
+  if(num==0) return "0";
+  if(num<0.001) return num;
+  if(num<0.01) return num.toFixed(3);
+  if(num<0.1) return num.toFixed(2);
+  if(num<1) return num.toFixed(1);
+  return num.toFixed(0);
+}
+window.onload = getPage();
+</script>
+</head>
+<body>
+<div id="palette"></div>
+</body>
+</html>

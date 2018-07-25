@@ -1,0 +1,173 @@
+
+ var circle ={
+    path: google.maps.SymbolPath.CIRCLE,
+    fillColor: 'black',
+    fillOpacity: 1,
+    opacity: 1,
+    scale: 7,
+    strokeColor: 'black,
+    strokeWeight: 1
+};
+Array.prototype.contains = function(v) {
+    for(var i = 0; i < this.length; i++) {
+        if(this[i] === v) return true;
+    }
+    return false;
+};
+
+Array.prototype.unique = function() {
+    var arr = [];
+    for(var i = 0; i < this.length; i++) {
+        if(!arr.contains(this[i])) {
+            arr.push(this[i]);
+        }
+    }
+    return arr; 
+}
+
+var gMap = null;
+var infoWindow = new google.maps.InfoWindow();
+var warnings;
+var watches;
+var tileLayer = new Array();
+
+var facInfo = new google.maps.InfoWindow()
+var facArray= [];
+
+var warningKeys=[];
+var watchKeys=[];
+
+function initialize() {
+    var mapOptions = {
+	zoom: 5,
+	center: new google.maps.LatLng(40, -97.5),
+	mapTypeId:  google.maps.MapTypeId.TERRAIN,
+	
+    };
+    gMap = new google.maps.Map(document.getElementById('map_canvas'), mapOptions);
+    warnings = new google.maps.Data();
+    warnings.loadGeoJson('http://clients.customweather.com/templates/IAAI/maptile/nws_alerts/storm_tracks.json');
+    warnings.setMap(gMap);
+    warnings.setStyle(warningStyle);
+    warnings.addListener('click',  function (event) {
+	handleMouseOver(event);
+    });
+
+        gMap.overlayMapTypes.push(
+	new google.maps.ImageMapType(
+{
+        getTileUrl: function(c, z) {
+	return "http://hail.customweather.com/cw_tiles/tGbb42Ilnh5DSpMmTJSWLGjaC7ZqsOod3C6ruavJRUtgs_aEjPvTWw-TK70Az7Za86CeRKSrgv2QMaxUO2Rvpg==/storm_track/"+t2q(c.x, c.y, z)+".png?storm_track.tiles=true";
+
+   },
+   tileSize: new google.maps.Size(256, 256),
+   name: "CustomWeather",
+   maxZoom: 18
+}));
+
+}
+
+
+function warningStyle(feature) {
+	if(feature.getProperty("fcst_speed")==-1) return {visible: false};
+	return {
+  		icon: circle
+	};
+}
+
+function  handleMouseOver(event){
+    var f = event.feature;
+    var latLng = event.latLng;
+
+    var alertType  = "Nexrad Storm Track" ;
+    var meso = f.getProperty("meso");
+    var tvs = f.getProperty("tvs");
+    var hail = f.getProperty("hail");
+    var hailParts =  null;
+	
+	if("0/  0/ 0.00".localeCompare(hail)==0 || 'UNKNOWN'.localeCompare(hail)==0){
+		hail=false;
+	}else{	
+		hailParts = hail.split("/");
+		hail=true;
+	}
+    var html = [
+	'<div id="InfoPopup" class="info-popup">',
+	'<div class="row title">',
+	'<div class="col-sm-10 text-center"><h3>Radar Storm Track ('+ f.getProperty("stm_id")+')</h3></div>',
+	'</div>',
+	'<div class="row content-top">',
+	'<div class="col-sm-12 text-center"><strong>Station ID:</strong> ' + f.getProperty("nexrad_id").toUpperCase()  +  '</div>',
+	'</div>',
+	'<div class="row"><div class="col-sm-4 text-right"><strong>Speed:</strong> '+f.getProperty("fcst_speed") +' Knots</div></div>',
+	'<div class="row"><div class="col-sm-4 text-right"><strong>Direction:</strong> '+f.getProperty("fcst_azimuth") +' Degrees </div></div>',
+	'<div class="row"><div class="col-sm-4 text-right"><strong>Max dBZ:</strong> '+f.getProperty("max_dbz") +' dBZ</div></div>',
+	'<div class="row"><div class="col-sm-4 text-right"><strong>Max Echo Height:</strong> '+Math.ceil(f.getProperty("max_height")*1000) +' ft </div></div>',
+	'<div class="row"><div class="col-sm-4 text-right"><strong>Storm Top:</strong> '+Math.ceil(f.getProperty("stm_top")*1000)+' ft</div></div>',
+	hail ? '<div class="row"><div class="col-sm-4 text-right"><strong>Prob of Hail</strong> '+ hailParts[1]  + '%  </div></div>' : '',
+	hail ? '<div class="row"><div class="col-sm-4 text-right"><strong>Prob of Severe Hail:</strong> '+ hailParts[0]  + '%  </div></div>' : '',
+	hail ? '<div class="row"><div class="col-sm-4 text-right"><strong>Max Hail Diameter:</strong> '+ hailParts[2]  + 'in  </div></div>' : '',
+	'<div class="row"><div class="col-sm-4 text-right"><strong>Vertically Integrated Liquids:</strong> '+f.getProperty("vil") +' kg/m^2</div></div>',
+	//'<div class="row"><div class="col-sm-4 text-right"><strong>Azimuth:</strong> '+f.getProperty("azimuth") +' </div></div>',
+	//'<div class="row"><div class="col-sm-4 text-right"><strong>Range:</strong> '+f.getProperty("range") +' </div></div>',
+	tvs=="NONE" ? '' : '<div class="row"><div class="col-sm-4 text-right"><strong>Tornado:</strong> '+f.getProperty("tvs") +' </div></div>',
+	meso=="NONE" ? '':'<div class="row"><div class="col-sm-4 text-right"><strong>Meso:</strong> '+f.getProperty("meso") +' </div></div>',
+	//'<div class="row"><div class="col-sm-4 text-right"><strong>latlng:</strong> '+latLng +' </div></div>',
+	'<div class="row"><div class="col-sm-4 text-right"><strong>Time:</strong> '+new Date(f.getProperty("event_time") )+' </div></div>',
+	'</div>'
+    ];
+    googleMarker = new google.maps.Marker({
+	position: event.latLng,
+	title: f.getProperty("cap:event"),
+	map: gMap
+    });
+    infoWindow.setContent(html.join(""));
+    infoWindow.open(gMap, googleMarker);
+    googleMarker.setVisible(false);
+}
+
+
+function AddLayer(product) {
+    if(product=='severe_watches'){
+	watches.setMap(gMap);
+    }else if(product=='severe_warnings'){
+	warnings.setMap(gMap);
+	return false;
+    }
+}
+function RemoveLayer(product) {
+    if(product=='severe_watches'){
+	watches.setMap(null);
+    }else if(product=='severe_warnings'){
+	warnings.setMap(null);
+    }
+}
+function toggleLayer(checkbox, product) {
+    console.log(checkbox + ":" + product);
+    if (checkbox.checked) {
+	AddLayer(product);
+    } else {
+	RemoveLayer(product);
+    }
+    var war = warnings.getMap()!=null;
+    var wat = watches.getMap()!=null;
+    if(!war && !wat) drawCells([]);
+    else if(war&&!wat) drawCells(warningKeys);
+    else if(!war&&wat) drawCells(watchKeys);
+    else drawCells(warningKeys.concat(watchKeys));
+}
+
+
+function t2q ( tx,  ty,  zl){
+  var quad = "";
+  for (var i = zl; i > 0; i--){
+    var mask = 1 << (i - 1);
+    var cell = 0;
+    if ((tx & mask) != 0)
+     cell++;
+    if ((ty & mask) != 0)
+     cell += 2;
+    quad += cell;
+  }
+  return quad;
+}
